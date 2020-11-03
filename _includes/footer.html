@@ -1,0 +1,22 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        {{ site.title | escape }}
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <a href="{{- site.privacy_url -}}">Privacy</a>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
