@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-## Welcome to our course on "Answer set solving in practice"!
+# Welcome to our course on "Answer set solving in practice"!
 
 Our course is usually held as a graduate course at the [University of Potsdam](https://www.uni-potsdam.de/en)
 but obvious circumstances made us produce an online version.
@@ -22,28 +22,28 @@ and installable either from source or various package managers.
 
 Stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) for any comments!
 
-### Organization
+## Organization
 
-#### Slides
+### Slides
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.0.0/organization.pdf)
   [git](https://github.com/potassco-asp-course/organization)
   [release](https://github.com/potassco-asp-course/course/releases/tag/v1.0.0) (v1.0.0)
 
-#### Videos
+### Videos
 
   [yt](https://youtu.be/fUClBdNpyuA)
   [up](https://mediaup.uni-potsdam.de/Play/22965)
 
-### Motivation
+## Motivation
 
-#### Slides
+### Slides
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.1.0/motivation.pdf)
   [git](https://github.com/potassco-asp-course/motivation)
   [release](https://github.com/potassco-asp-course/course/releases/tag/v1.1.0) (v1.1.0)
 
-#### Videos
+### Videos
 
   * introduction
 	[yt](https://youtu.be/_nOPF6eaMeQ)
@@ -73,15 +73,15 @@ Stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) fo
 	[yt](https://youtu.be/R5yyiyb3edg)
 	[up](https://mediaup.uni-potsdam.de/Play/23107)
 
-### Introduction
+## Introduction
 
-#### Slides
+### Slides
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/introduction.pdf)
   [git](https://github.com/potassco-asp-course/introduction)
   [release](https://github.com/potassco-asp-course/course/releases/tag/v1.2.2) (v1.2.2)
 
-#### Videos
+### Videos
 
   * introduction
 	[yt](https://youtu.be/_9dlDE1OsQA)
@@ -118,15 +118,15 @@ Stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) fo
 	[yt](https://youtu.be/txlXNHs1rPo)
 	[up](https://mediaup.uni-potsdam.de/Play/24045)
 
-### Modeling
+## Modeling
 
-#### Slides
+### Slides
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.3.0/main.pdf)
   [git](https://github.com/potassco-asp-course/modeling)
   [pre-release](https://github.com/potassco-asp-course/course/releases/tag/v1.3.0)
 
-#### Videos
+### Videos
 
   * introduction
 	[yt](https://youtu.be/xuNQF04tqD0)
