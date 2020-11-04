@@ -1,4 +1,4 @@
 # How to use
 
-    bundle install --path .
-    bundle jekyll serve --incremental
+    bundle install --path .bundle
+    bundle exec jekyll serve --incremental
