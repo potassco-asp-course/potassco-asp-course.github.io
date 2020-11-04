@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Welcome to our course!
 ---
-## Welcome to our course!
-
 Our course "Answer set solving in practice" is usually held as a graduate course at the [University of Potsdam](https://www.uni-potsdam.de/en)
 but obvious circumstances made us produce an online version.
 The schedule of the course follows roughly the material presented below and consists (usually) of
