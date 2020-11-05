@@ -12,7 +12,6 @@ both per week,
 an initial tutorial,
 along with three practical assignments.
 
-_Take care, this page will grow and evolve over winter._
 The raw material can be found in a
 [github repository](https://github.com/potassco-asp-course/course).
 The accompanying videos are provided through Potassco's
@@ -20,7 +19,8 @@ The accompanying videos are provided through Potassco's
 All underlying ASP systems are available in open source at [potassco](https://potassco.org)
 and installable either from source or various package managers.
 
-Stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) for any comments!
+_Take care, this page will grow and evolve over winter._
+So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) for any comments!
 
 ## Organization
 
@@ -28,7 +28,7 @@ Stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) fo
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.0.0/organization.pdf)
   [git](https://github.com/potassco-asp-course/organization)
-  [release](https://github.com/potassco-asp-course/course/releases/tag/v1.0.0) (v1.0.0)
+  [v1.0.0](https://github.com/potassco-asp-course/course/releases/tag/v1.0.0)
 
 ### Videos
 
@@ -41,7 +41,7 @@ Stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) fo
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.1.0/motivation.pdf)
   [git](https://github.com/potassco-asp-course/motivation)
-  [release](https://github.com/potassco-asp-course/course/releases/tag/v1.1.0) (v1.1.0)
+  [v1.1.0](https://github.com/potassco-asp-course/course/releases/tag/v1.1.0)
 
 ### Videos
 
@@ -79,7 +79,7 @@ Stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) fo
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/introduction.pdf)
   [git](https://github.com/potassco-asp-course/introduction)
-  [release](https://github.com/potassco-asp-course/course/releases/tag/v1.2.2) (v1.2.2)
+  [v1.2.2](https://github.com/potassco-asp-course/course/releases/tag/v1.2.2)
 
 ### Videos
 
