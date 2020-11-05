@@ -89,19 +89,19 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 	[yt](https://youtu.be/FKpmMIgsQhM)
 	[up](https://mediaup.uni-potsdam.de/Play/23491)
   * semantics
-	* I
+	* setup
 	  [yt](https://youtu.be/Fmj0KJL_i04)
 	  [up](https://mediaup.uni-potsdam.de/Play/23594)
-	* II
+	* closure
 	  [yt](https://youtu.be/gN6WHEweXOg)
 	  [up](https://mediaup.uni-potsdam.de/Play/23600)
-	* III
+	* idea
 	  [yt](https://youtu.be/5_TyvPf8G7Q)
 	  [up](https://mediaup.uni-potsdam.de/Play/23657)
-    * IV
+    * definition
 	  [yt](https://youtu.be/T_AqkLQHxhw)
 	  [up](https://mediaup.uni-potsdam.de/Play/23659)
-    * V
+    * exemplars
 	  [yt](https://youtu.be/CWDA5QqEpf4)
 	  [up](https://mediaup.uni-potsdam.de/Play/23672)
   * reasoning
@@ -116,6 +116,11 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
   * summary
 	[yt](https://youtu.be/txlXNHs1rPo)
 	[up](https://mediaup.uni-potsdam.de/Play/24045)
+
+### Extras
+
+  * cheat slide
+  * exemplars
 
 ## Modeling
 
