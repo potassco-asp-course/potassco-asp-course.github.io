@@ -119,8 +119,8 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 ### Extras
 
-  * cheat slide
-  * exemplars
+  * cheat slide [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/asp-in-one.pdf)
+  * exemplars   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/asp-exemplars.pdf)
 
 ## Modeling
 
