@@ -155,7 +155,7 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 	  [up](https://mediaup.uni-potsdam.de/Play/24747)
 	* salesperson
 	  [yt](https://youtu.be/H6PsxX_mnYk)
-	  [up]()
+	  [up](https://mediaup.uni-potsdam.de/Play/24771)
 	* assignment
 	  [yt]()
 	  [up]()
