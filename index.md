@@ -14,7 +14,8 @@ along with three practical assignments.
 The raw material can be found in a
 [github repository](https://github.com/potassco-asp-course/course).
 The accompanying videos are provided through Potassco's
-[youtube channel](https://www.youtube.com/c/potassco-live).
+[youtube channel](https://www.youtube.com/c/potassco-live)
+and our university's media server.
 All underlying ASP systems are available in open source at [potassco](https://potassco.org)
 and installable either from source or various package managers.
 
