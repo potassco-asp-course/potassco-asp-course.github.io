@@ -151,7 +151,7 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 	  [yt](https://youtu.be/BI7ZzDAO2uY)
 	  [up](https://mediaup.uni-potsdam.de/Play/24630)
 	* queens
-	  [yt]()
+	  [yt](https://youtu.be/EnLHTnAIiss)
 	  [up]()
 	* salesperson
 	  [yt]()
