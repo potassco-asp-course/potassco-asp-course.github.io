@@ -145,9 +145,11 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 	[yt](https://youtu.be/7HciHpz1dHo)
 	[up](https://mediaup.uni-potsdam.de/Play/24100)
   * case studies
+	  [yt](https://youtu.be/j1YPqsdSUxA)
+	  [up](https://mediaup.uni-potsdam.de/Play/24628)
 	* sat
-	  [yt]()
-	  [up]()
+	  [yt](https://youtu.be/BI7ZzDAO2uY)
+	  [up](https://mediaup.uni-potsdam.de/Play/24630)
 	* queens
 	  [yt]()
 	  [up]()
@@ -157,7 +159,7 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 	* assignment
 	  [yt]()
 	  [up]()
-	* planing
+	* planning
 	  [yt]()
 	  [up]()
   * summary
