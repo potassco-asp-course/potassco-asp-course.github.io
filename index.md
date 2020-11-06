@@ -165,3 +165,15 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
   * summary
 	[yt]()
 	[up]()
+
+### Encodings
+
+  * queens
+	[queens.lp]()
+	[queens-opt.lp]()
+
+  * salesperson
+  	[tsp-core.lp]()
+	[tsp-weak-constraint.lp]()
+	[tsp-minimize.lp]()
+	[tsp-compact.lp]()
