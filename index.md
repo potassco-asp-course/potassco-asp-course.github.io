@@ -152,9 +152,9 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 	  [up](https://mediaup.uni-potsdam.de/Play/24630)
 	* queens
 	  [yt](https://youtu.be/EnLHTnAIiss)
-	  [up]()
+	  [up](https://mediaup.uni-potsdam.de/Play/24747)
 	* salesperson
-	  [yt]()
+	  [yt](https://youtu.be/H6PsxX_mnYk)
 	  [up]()
 	* assignment
 	  [yt]()
