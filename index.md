@@ -15,7 +15,9 @@ The raw material can be found in a
 [github repository](https://github.com/potassco-asp-course/course).
 The accompanying videos are provided through Potassco's
 [youtube channel](https://www.youtube.com/c/potassco-live)
-and our university's media server.
+and our university's media server;
+it features also an overall
+[playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h).
 All underlying ASP systems are available in open source at [potassco](https://potassco.org)
 and installable either from source or various package managers.
 
@@ -44,6 +46,8 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
   [v1.1.0](https://github.com/potassco-asp-course/course/releases/tag/v1.1.0)
 
 ### Videos
+
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NrGgRqhS9GXnHjIF12x4AF)
 
   * introduction
 	[yt](https://youtu.be/_nOPF6eaMeQ)
@@ -82,6 +86,8 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
   [v1.2.2](https://github.com/potassco-asp-course/course/releases/tag/v1.2.2)
 
 ### Videos
+
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB)
 
   * introduction
 	[yt](https://youtu.be/_9dlDE1OsQA)
@@ -132,6 +138,8 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
   [v1.3.1](https://github.com/potassco-asp-course/course/releases/tag/v1.3.1)
 
 ### Videos
+
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002)
 
   * introduction
 	[yt](https://youtu.be/xuNQF04tqD0)
