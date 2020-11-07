@@ -127,9 +127,9 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 ### Slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.3.0/main.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/modeling.pdf)
   [git](https://github.com/potassco-asp-course/modeling)
-  [pre-release](https://github.com/potassco-asp-course/course/releases/tag/v1.3.0)
+  [v1.3.1](https://github.com/potassco-asp-course/course/releases/tag/v1.3.1)
 
 ### Videos
 
@@ -158,23 +158,28 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 	  [yt](https://youtu.be/H6PsxX_mnYk)
 	  [up](https://mediaup.uni-potsdam.de/Play/24771)
 	* assignment
-	  [yt]()
-	  [up]()
+	  [yt](https://youtu.be/WjwHWoMIydo)
+	  [up](https://mediaup.uni-potsdam.de/Play/24790)
 	* planning
-	  [yt]()
-	  [up]()
+	  [yt](https://youtu.be/Rn-jPtQjFro)
+	  [up](https://mediaup.uni-potsdam.de/Play/24792)
   * summary
-	[yt]()
-	[up]()
+	[yt](https://youtu.be/52-LWJO6gTM)
+	[up](https://mediaup.uni-potsdam.de/Play/24794)
 
 ### Encodings
 
   * queens
-	[queens.lp]()
-	[queens-opt.lp]()
+	[queens](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/queens.lp)
+	[queens-opt](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/queens-opt.lp)
 
   * salesperson
-  	[tsp-core.lp]()
-	[tsp-weak-constraint.lp]()
-	[tsp-minimize.lp]()
-	[tsp-compact.lp]()
+  	[cities](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/cities.lp)
+  	[tsp-core](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/tsp-core.lp)
+	[tsp-weak-constraint](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/tsp-weak-constraint.lp)
+	[tsp-minimize](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/tsp-minimize.lp)
+	[tsp-compact](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/tsp-compact.lp)
+
+  * planning
+	[encoding](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/planning-encoding.lp)
+	[instance](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/planning-instance.lp)
