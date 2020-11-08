@@ -11,7 +11,7 @@ both per week,
 an initial tutorial,
 along with three practical assignments.
 
-The raw material can be found in a
+The raw material of the course, like LaTeX sources, can be found in a
 [github repository](https://github.com/potassco-asp-course/course).
 The accompanying videos are provided through Potassco's
 [youtube channel](https://www.youtube.com/c/potassco-live)
@@ -137,6 +137,21 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
   [git](https://github.com/potassco-asp-course/modeling)
   [v1.3.1](https://github.com/potassco-asp-course/course/releases/tag/v1.3.1)
 
+### Encodings
+
+  * queens
+	[queens](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/queens.lp)
+	[queens-opt](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/queens-opt.lp)
+  * salesperson
+  	[cities](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/cities.lp)
+  	[tsp-core](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/tsp-core.lp)
+	[tsp-weak-constraint](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/tsp-weak-constraint.lp)
+	[tsp-minimize](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/tsp-minimize.lp)
+	[tsp-compact](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/tsp-compact.lp)
+  * planning
+	[encoding](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/planning-encoding.lp)
+	[instance](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/planning-instance.lp)
+
 ### Videos
 
   [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002)
@@ -174,20 +189,3 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
   * summary
 	[yt](https://youtu.be/52-LWJO6gTM)
 	[up](https://mediaup.uni-potsdam.de/Play/24794)
-
-### Encodings
-
-  * queens
-	[queens](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/queens.lp)
-	[queens-opt](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/queens-opt.lp)
-
-  * salesperson
-  	[cities](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/cities.lp)
-  	[tsp-core](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/tsp-core.lp)
-	[tsp-weak-constraint](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/tsp-weak-constraint.lp)
-	[tsp-minimize](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/tsp-minimize.lp)
-	[tsp-compact](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/tsp-compact.lp)
-
-  * planning
-	[encoding](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/planning-encoding.lp)
-	[instance](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/planning-instance.lp)
