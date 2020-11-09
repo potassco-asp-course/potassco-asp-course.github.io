@@ -47,7 +47,7 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 ### Videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NrGgRqhS9GXnHjIF12x4AF)
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NrGgRqhS9GXnHjIF12x4AF) 1h11m50s
 
   * introduction
 	[yt](https://youtu.be/_nOPF6eaMeQ)
@@ -87,7 +87,7 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 ### Videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB)
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB) 2h49m3s
 
   * introduction
 	[yt](https://youtu.be/_9dlDE1OsQA)
@@ -154,7 +154,7 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 ### Videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002)
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002) 1h46m25s
 
   * introduction
 	[yt](https://youtu.be/xuNQF04tqD0)
