@@ -36,6 +36,7 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
   [yt](https://youtu.be/fUClBdNpyuA)
   [up](https://mediaup.uni-potsdam.de/Play/22965)
+  14m08s
 
 ## Motivation
 
