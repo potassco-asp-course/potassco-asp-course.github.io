@@ -24,7 +24,7 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 ## All in one
 
-The following slide deck and video playlist provide the last snapshot on the current material.
+The following slide deck and video playlist provide the last snapshot of the current material.
 
 [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/main.pdf) (v1.3.1)
 [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h)
