@@ -15,14 +15,19 @@ The raw material of the course, like LaTeX sources, can be found in a
 [github repository](https://github.com/potassco-asp-course/course).
 The accompanying videos are provided through Potassco's
 [youtube channel](https://www.youtube.com/c/potassco-live)
-and our university's media server;
-it features also an overall
-[playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h).
+and our university's media server.
 All underlying ASP systems are available in open source at [potassco](https://potassco.org)
 and installable either from source or various package managers.
 
 _Take care, this page will grow and evolve over winter._
 So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) for any comments!
+
+## All in one
+
+The following slide deck and video playlist provide the last snapshot on the current material.
+
+[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/main.pdf) (v1.3.1)
+[playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h)
 
 ## Organization
 
