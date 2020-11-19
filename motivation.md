@@ -11,6 +11,8 @@ permalink: /motivation/
 
 ## Videos
 
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NrGgRqhS9GXnHjIF12x4AF) 1h11m50s
+
   * introduction
 	[yt](https://youtu.be/_nOPF6eaMeQ)
     [up](https://mediaup.uni-potsdam.de/Play/23002)
