@@ -1,18 +1,14 @@
 ---
 layout: page
-title: Teaching
-permalink: /teaching/
+title: Legacy
+permalink: /legacy/
 weight: 4
 menu: main
 ---
 
-This is a Lecture series at the University of Potsdam about Answer Set Programming for an entire semester.
-The teaching material follows our book on 
-[Answer Set Solving in Practice](/book/).
+## Lecture material used up to 2019
 
-*Note that the material is still expanding and subject to change.*
-
-All Slides 
+All Slides
 [LaTeX Bundle](http://www.cs.uni-potsdam.de/~torsten/Potassco/Slides/asp.tgz)
 and
 [PDF](http://www.cs.uni-potsdam.de/~torsten/Potassco/Slides/asp.pdf)
@@ -38,7 +34,7 @@ and
   [LaTeX Bundle](http://www.cs.uni-potsdam.de/~torsten/Potassco/Slides/modeling.tgz)
   [PDF](http://www.cs.uni-potsdam.de/~torsten/Potassco/Slides/modeling.pdf)
   (G3: [LaTeX Bundle](http://www.cs.uni-potsdam.de/~torsten/Potassco/Slides/modeling3.tgz)
-  [PDF](http://www.cs.uni-potsdam.de/~torsten/Potassco/Slides/modeling3.pdf)) 
+  [PDF](http://www.cs.uni-potsdam.de/~torsten/Potassco/Slides/modeling3.pdf))
   Videos ([One](videos.html#workflow), [Two](videos.html#modeling))
 - Language
   [LaTeX Bundle](http://www.cs.uni-potsdam.de/~torsten/Potassco/Slides/language.tgz)
@@ -79,7 +75,7 @@ and
 - Advanced Modeling
   [LaTeX Bundle](http://www.cs.uni-potsdam.de/~torsten/Potassco/Slides/encoding.tgz)
   [PDF](http://www.cs.uni-potsdam.de/~torsten/Potassco/Slides/encoding.pdf)
-  (preliminary; 
+  (preliminary;
   G3: [LaTeX Bundle](http://www.cs.uni-potsdam.de/~torsten/Potassco/Slides/encoding3.tgz)
   [PDF](http://www.cs.uni-potsdam.de/~torsten/Potassco/Slides/encoding3.pdf))
 - Preferences and Optimization
@@ -94,4 +90,3 @@ and
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="/images/ccby80x15.png"></a>
 <br>
 Potassco Slide Packages are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.
-
