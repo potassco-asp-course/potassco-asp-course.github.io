@@ -26,7 +26,7 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 The following slide deck and video playlist provide the last snapshot of the current material.
 
-[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/main.pdf) (v1.3.1)
+[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.4.1/main.pdf) (v1.4.1)
 [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h)
 
 ## Organization
@@ -200,13 +200,13 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 ### Slides
 
-  [pdf]()
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.4.1/language.pdf)
   [git](https://github.com/potassco-asp-course/language)
-  [v1.4.X]()
+  [v1.4.1](https://github.com/potassco-asp-course/course/releases/tag/v1.4.1)
 
 ### Videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9PeXzX7mExyVADcMU9b8eJ1) HhMMmSSs
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9PeXzX7mExyVADcMU9b8eJ1) 2h7m39s
 
   * introduction
 	[yt](https://youtu.be/mhUJnWd3qOU)
@@ -233,9 +233,26 @@ The following slide deck and video playlist provide the last snapshot of the cur
   * optimization
 	[yt](https://youtu.be/_CgTpOJ3W88)
 	[up](https://mediaup.uni-potsdam.de/Play/25741)
-  * formats - TBD
-	[yt]()
-	[up]()
-  * summary - TBD
-	[yt]()
-	[up]()
+  * formats
+	[yt](https://youtu.be/MwYVBefVBF8)
+	[up](https://mediaup.uni-potsdam.de/Play/25902)
+	* input
+		* terms and literals
+		  [yt](https://youtu.be/CtmJdSn4-k0)
+	      [up](https://mediaup.uni-potsdam.de/Play/25904)
+		* rules and aggregates
+		  [yt](https://youtu.be/e0zd-caqjOM)
+	      [up](https://mediaup.uni-potsdam.de/Play/26003)
+		* directives
+		  [yt](https://youtu.be/eV-57H-Fo9I)
+	      [up](https://mediaup.uni-potsdam.de/Play/26008)
+	* intermediate
+	  [yt](https://youtu.be/YblJKkJGw9E)
+	  [up](https://mediaup.uni-potsdam.de/Play/26009)
+  * summary
+	[yt](https://youtu.be/OVSFZFkaJ3o)
+	[up](https://mediaup.uni-potsdam.de/Play/26010)
+
+### Extras
+
+  * aggregates [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.4.1/aggies.pdf)
