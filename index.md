@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to our course!
+title: Welcome
 navtitle: Home
 weight: 0
 permalink: /
