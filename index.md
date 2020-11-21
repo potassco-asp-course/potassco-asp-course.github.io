@@ -19,15 +19,25 @@ The raw material of the course, like LaTeX sources, can be found in a
 The accompanying videos are provided through Potassco's
 [youtube channel](https://www.youtube.com/c/potassco-live)
 and our university's media server.
-All underlying ASP systems are available in open source at [potassco](https://potassco.org)
+All underlying ASP systems are available in open source at [potassco.org](https://potassco.org)
 and installable either from source or various package managers.
+Our native site also contains many other resources around ASP,
+such as documentation, tutorials, support and much more.
 
 The schedule of the course follows roughly the material presented below and consists (usually) of
 two hours of lecture,
 two hours of exercises,
 both per week,
-an initial tutorial,
-along with three practical assignments.
+along with a tutorial,
+and three practical assignments.
+We teach this usually in a format resembling a **Y**.
+We start with lectures and exercises up to the *Language* part.
+Then, we start a second branch with a tutorial on using ASP systems,
+which enables the students to accomplish the three practical assigments.
+(The first assignment is usually on modeling a *Sudoku* puzzle since it nicely relates to the *n-Queens* puzzle treated
+in the part on *Modeling*.)
+Lecture and exercises continue in parallel exploring foundations, algorithms,
+and implementation of ASP systems.
 
 _Take care, this page will grow and evolve over winter._
 So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) for any comments!
