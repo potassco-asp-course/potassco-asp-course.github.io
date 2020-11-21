@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Language
-permalink: /language/
+title: Extensions
+permalink: /extensions/
 ---
 
 Note that this material has been merely migrated and not revised
