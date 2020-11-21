@@ -46,7 +46,7 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 The following slide deck and video playlist provide the last snapshot of the current material.
 
-[slides](https://github.com/potassco-asp-course/course/releases/download/v1.4.1/main.pdf) (v1.4.1)
+[slides](https://github.com/potassco-asp-course/course/releases/download/v1.5.0/main.pdf) (v1.5.0)
 [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h)
 
 ## Organization
@@ -78,3 +78,8 @@ The following slide deck and video playlist provide the last snapshot of the cur
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.4.1/language.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9PeXzX7mExyVADcMU9b8eJ1)
  [resources](/language/)
+
+## Extensions
+
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.5.0/extensions.pdf)
+ [resources](/extensions/)
