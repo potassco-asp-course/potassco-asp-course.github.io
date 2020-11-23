@@ -63,7 +63,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 ## Introduction
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/introduction.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.6.1/introduction.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB)
  [resources](/introduction/)
 

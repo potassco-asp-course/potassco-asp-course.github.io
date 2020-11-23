@@ -5,9 +5,10 @@ permalink: /introduction/
 ---
 ## Slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/introduction.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.6.1/introduction.pdf)
   [git](https://github.com/potassco-asp-course/introduction)
   [v1.2.2](https://github.com/potassco-asp-course/course/releases/tag/v1.2.2)
+  [v1.6.1](https://github.com/potassco-asp-course/course/releases/tag/v1.6.1)
 
 ## Videos
 
