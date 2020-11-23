@@ -67,6 +67,10 @@ The following slide deck and video playlist provide the last snapshot of the cur
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB)
  [resources](/introduction/)
 
+ [slides](https://github.com/potassco-asp-course/exercises/releases/download/v1.0/introduction.pdf)
+ [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
+ [resources](/introduction-exercises/)
+
 ## Modeling
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/modeling.pdf)
