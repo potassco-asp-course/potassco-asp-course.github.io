@@ -1,4 +1,4 @@
-# Design
+* Design
 
 - have general menu items
   - about
@@ -8,7 +8,7 @@
 
 - menu items: don't know what to do with the lecture parts
 
-# Miscellaneous
+* Miscellaneous
 
 - move posts from home page
   - make the *news*
