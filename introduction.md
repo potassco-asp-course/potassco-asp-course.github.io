@@ -57,8 +57,8 @@ permalink: /introduction/
 ## Exercises
 
   [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.0.0/introduction-exercises.pdf)
-  [git](https://github.com/potassco-asp-course/exercises/introduction)
-  [v1.0.0](ihttps://github.com/potassco-asp-course/exercises/tree/v1.0.0)
+  [git](https://github.com/potassco-asp-course/exercises/tree/main/introduction)
+  [v1.0.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.0.0)
 
 ## Videos of the Exercises
 
