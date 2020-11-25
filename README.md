@@ -5,6 +5,6 @@
 
 ## How to use at university
 
-    conda create -n potassco-asp-course -c conda-forge ruby rb-bundler gxx_linux-64
+    conda create -n potassco-asp-course -c conda-forge ruby rb-bundler cxx-compiler
     conda activate potassco-asp-course
     bundle install --path .bundle
