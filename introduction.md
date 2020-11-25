@@ -3,14 +3,14 @@ layout: page
 title: Introduction
 permalink: /introduction/
 ---
-## Slides
+## Lecture slides
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.6.1/introduction.pdf)
   [git](https://github.com/potassco-asp-course/introduction)
   [v1.2.2](https://github.com/potassco-asp-course/course/releases/tag/v1.2.2)
   [v1.6.1](https://github.com/potassco-asp-course/course/releases/tag/v1.6.1)
 
-## Videos
+## Lecture videos
 
   [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB) 2h49m3s
 
@@ -49,7 +49,22 @@ permalink: /introduction/
 	[yt](https://youtu.be/txlXNHs1rPo)
 	[up](https://mediaup.uni-potsdam.de/Play/24045)
 
-## Extras
+## Extra slides
 
   * cheat slide [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/asp-in-one.pdf)
   * exemplars   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/asp-exemplars.pdf)
+
+## Exercise sheets
+
+  [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.0.0/introduction-exercises.pdf)
+  [git](https://github.com/potassco-asp-course/exercises/tree/main/introduction)
+  [v1.0.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.0.0)
+
+## Exercise videos
+
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
+
+  * exercise 1.1
+	[yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9Ndg-4HOdmyaNcisH27MZsf)
+  * exercise 1.2
+	[yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9O0-4di4vmyIkc2Ohwstu9D)
