@@ -53,3 +53,19 @@ permalink: /introduction/
 
   * cheat slide [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/asp-in-one.pdf)
   * exemplars   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/asp-exemplars.pdf)
+
+## Exercises
+
+  [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.0.0/introduction-exercises.pdf)
+  [git](https://github.com/potassco-asp-course/exercises/introduction)
+  [v1.0.0](ihttps://github.com/potassco-asp-course/exercises/tree/v1.0.0)
+
+## Videos of the Exercises
+
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
+
+  * exercise 1.1
+	[yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9Ndg-4HOdmyaNcisH27MZsf)
+  * exercise 1.2
+	[yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9O0-4di4vmyIkc2Ohwstu9D)
+
