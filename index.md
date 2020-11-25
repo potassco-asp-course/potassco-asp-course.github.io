@@ -65,11 +65,8 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.6.1/introduction.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB)
+ [exercises](https://github.com/potassco-asp-course/exercises/releases/download/v1.0.0/introduction-exercises.pdf)
  [resources](/introduction/)
-
- [slides](https://github.com/potassco-asp-course/exercises/releases/download/v1.0/introduction.pdf)
- [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
- [resources](/introduction-exercises/)
 
 ## Modeling
 
