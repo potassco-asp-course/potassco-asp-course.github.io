@@ -1,14 +1,13 @@
 * Design
 
 - have general menu items
-  - about
   - home
-  - support
   - news
+  - support
+  - resources
+  - about
 
-- menu items: don't know what to do with the lecture parts
-
-* Miscellaneous
+- no menu items for lecture parts (*.md)
 
 - move posts from home page
-  - make the *news*
+  - turn onto news (cf above)
