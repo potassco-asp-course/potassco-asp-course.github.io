@@ -1,16 +1,25 @@
 ---
 layout: default
 ---
+<article class="post">
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- if page.heading or page.title -%}
+  <header class="post-header">
+    {%- if page.heading-%}
+      <h1 class="post-title">{{ page.heading | escape }}</h1>
+    {%- else -%}
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    {%- endif -%}
+  </header>
   {%- endif -%}
 
-  {{ content }}
+  {%- if page.content != blank -%}
+    <div class="post-content">
+      {{ content }}
+    </div>
+  {%- endif -%}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -31,4 +40,4 @@ layout: default
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
-</div>
+</article>
