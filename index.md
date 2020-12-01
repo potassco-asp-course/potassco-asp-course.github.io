@@ -53,42 +53,40 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.0.0/organization.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P6BVlYnEZzBQUABSdvyuCH)
- [resources](/organization/)
+ [workspace](/organization/)
 
 ## Motivation
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.1.0/motivation.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9NrGgRqhS9GXnHjIF12x4AF)
- [resources](/motivation/)
+ [workspace](/motivation/)
 
 ## Introduction
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.6.1/introduction.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB)
  [exercises](https://github.com/potassco-asp-course/exercises/releases/download/v1.0.0/introduction-exercises.pdf)
- <!-- option to add the videos of the exercises
- [exemplars](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
- -->
- [resources](/introduction/)
+ [solutions](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
+ [workspace](/introduction/)
 
 ## Modeling
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/modeling.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002)
- [resources](/modeling/)
+ [workspace](/modeling/)
 
 ## Language
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.4.1/language.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9PeXzX7mExyVADcMU9b8eJ1)
- [resources](/language/)
+ [workspace](/language/)
 
 ## Extensions
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.5.0/extensions.pdf)
- [resources](/extensions/)
+ [workspace](/extensions/)
 
 ## Grounding
 
  [slides]()
- [resources](/grounding/)
+ [workspace](/grounding/)
