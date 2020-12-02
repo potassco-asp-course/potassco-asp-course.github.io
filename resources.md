@@ -6,3 +6,4 @@ permalink: /resources/
 menu: main
 ---
 
+* Course [material](/legacy/) until 2019
