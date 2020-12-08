@@ -77,7 +77,7 @@ permalink: /introduction/
 
 ## Practice
 
-  Learning ASP from examples 
+  learning ASP from examples 
   [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction)
   [git](https://github.com/potassco-asp-course/notebooks/tree/master/introduction)
   
