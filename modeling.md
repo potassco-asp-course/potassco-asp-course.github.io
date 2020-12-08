@@ -64,25 +64,37 @@ permalink: /modeling/
 
 ## Practice
 
-  Basic modeling exercises
-  [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling)
+  basic modeling exercises
+  [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling)
   [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling)
-  
+
   * hitting set
-    [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F01-hitting.ipynb)
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F01-hitting.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/01-hitting.ipynb)
   * independent set
-    [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F02-independent.ipynb)
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F02-independent.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/02-independent.ipynb)
   * vertex cover
-    [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F03-cover.ipynb)
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F03-cover.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/03-cover.ipynb)
   * dominating set
-    [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F04-dominating.ipynb)
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F04-dominating.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/04-dominating.ipynb)
   * satisfiability
-    [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F05-satisfiability.ipynb)
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F05-satisfiability.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/05-satisfiability.ipynb)
   * latin squares
-    [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F06-latin.ipynb)
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F06-latin.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/06-latin.ipynb)
+
+## Projects
+
+   all
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects)
+   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects)
+
+   * sudoku
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fsudoku%2Fsudoku.ipynb)
+   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/sudoku/sudoku.ipynb)
+
+  
