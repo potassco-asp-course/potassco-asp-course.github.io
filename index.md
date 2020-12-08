@@ -66,17 +66,14 @@ The following slide deck and video playlist provide the last snapshot of the cur
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB)
  [exercises](https://github.com/potassco-asp-course/exercises/releases/download/v1.0.0/introduction-exercises.pdf)
  [solutions](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
- <-- replace below word notebooks by practice? notebook is the format (like slides and videos, but different than exercises and solutions) --> 
- [notebooks](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/javier/wip?filepath=introduction)
+ [practice](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/javier/wip?filepath=introduction)
  [workspace](/introduction/)
 
 ## Modeling
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/modeling.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002)
- <-- same idea as above: replace notebooks by practice? -->
- [notebooks](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/javier/wip?filepath=modeling)
- <-- here projects is also a notebook, but we should not call it notebook again ->
+ [practice](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/javier/wip?filepath=modeling)
  [projects](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/javier/wip?filepath=projects)
  [workspace](/modeling/)
 
