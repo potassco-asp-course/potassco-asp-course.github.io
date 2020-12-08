@@ -64,7 +64,23 @@ permalink: /introduction/
 
   [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
 
-  * exercise 1.1
-	[yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9Ndg-4HOdmyaNcisH27MZsf)
-  * exercise 1.2
-	[yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9O0-4di4vmyIkc2Ohwstu9D)
+  * positive programs
+	[yt](https://youtu.be/5reTvAe2QBE)
+  * normal programs
+	[yt](https://youtu.be/7jkpKxGwbno)
+  * positive programs with variables
+    [yt](https://youtu.be/Gbiq8j7dprg)
+  * normal programs with variables
+    [yt](https://youtu.be/Z61fm6vamRI)
+  * safety
+    [yt](https://youtu.be/wJ0GAOUFYOQ)
+
+## Practice
+
+  Learning ASP from examples 
+  [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction)
+  [git](https://github.com/potassco-asp-course/notebooks/tree/master/introduction)
+  
+  * without variables [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction%2Fwithout-variables)
+  * with variables [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction%2Fwith-variables)
+  
