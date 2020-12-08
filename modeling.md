@@ -61,3 +61,40 @@ permalink: /modeling/
   * summary
 	[yt](https://youtu.be/52-LWJO6gTM)
 	[up](https://mediaup.uni-potsdam.de/Play/24794)
+
+## Practice
+
+  basic modeling exercises
+  [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling)
+  [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling)
+
+  * hitting set
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F01-hitting.ipynb)
+    [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/01-hitting.ipynb)
+  * independent set
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F02-independent.ipynb)
+    [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/02-independent.ipynb)
+  * vertex cover
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F03-cover.ipynb)
+    [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/03-cover.ipynb)
+  * dominating set
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F04-dominating.ipynb)
+    [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/04-dominating.ipynb)
+  * satisfiability
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F05-satisfiability.ipynb)
+    [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/05-satisfiability.ipynb)
+  * latin squares
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F06-latin.ipynb)
+    [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/06-latin.ipynb)
+
+## Projects
+
+   all
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects)
+   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects)
+
+   * sudoku
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fsudoku%2Fsudoku.ipynb)
+   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/sudoku/sudoku.ipynb)
+
+  
