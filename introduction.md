@@ -78,13 +78,13 @@ permalink: /introduction/
 ## Practice
 
   learning ASP from examples 
-  [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction)
+  [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction)
   [git](https://github.com/potassco-asp-course/notebooks/tree/master/introduction)
   
   * without variables 
-  [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction%2Fwithout-variables)
+  [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction%2Fwithout-variables)
   [git](https://github.com/potassco-asp-course/notebooks/tree/master/introduction/without-variables)
   * with variables 
-  [notebook](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction%2Fwith-variables)
+  [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction%2Fwith-variables)
   [git](https://github.com/potassco-asp-course/notebooks/tree/master/introduction/with-variables)
   
