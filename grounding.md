@@ -23,3 +23,7 @@ permalink: /grounding/
   * bottom-up grounding
 	[yt](https://youtu.be/tWrk94svdT8)
 	[up](https://mediaup.uni-potsdam.de/Play/26844)
+  * (semi-naive grounding)
+  * on-the-fly simplifications
+	[yt](https://youtu.be/pMu1ElXkaIQ)
+    [up](https://mediaup.uni-potsdam.de/Play/27515)
