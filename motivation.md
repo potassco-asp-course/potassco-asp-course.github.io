@@ -3,13 +3,13 @@ layout: page
 title: Motivation
 permalink: /motivation/
 ---
-## Slides
+### Slides
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.1.0/motivation.pdf)
   [git](https://github.com/potassco-asp-course/motivation)
   [v1.1.0](https://github.com/potassco-asp-course/course/releases/tag/v1.1.0)
 
-## Videos
+### Videos
 
   [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NrGgRqhS9GXnHjIF12x4AF) 1h11m50s
 

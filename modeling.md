@@ -3,13 +3,13 @@ layout: page
 title: Modeling
 permalink: /modeling/
 ---
-## Slides
+### Lecture slides
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/modeling.pdf)
   [git](https://github.com/potassco-asp-course/modeling)
   [v1.3.1](https://github.com/potassco-asp-course/course/releases/tag/v1.3.1)
 
-## Encodings
+### Encodings
 
   * queens
 	[queens](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/queens.lp)
@@ -24,7 +24,7 @@ permalink: /modeling/
 	[encoding](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/planning-encoding.lp)
 	[instance](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/planning-instance.lp)
 
-## Videos
+### Lecture videos
 
   [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002) 1h46m25s
 
@@ -62,7 +62,7 @@ permalink: /modeling/
 	[yt](https://youtu.be/52-LWJO6gTM)
 	[up](https://mediaup.uni-potsdam.de/Play/24794)
 
-## Practice
+### Practice
 
   basic modeling exercises
   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling)
@@ -87,7 +87,7 @@ permalink: /modeling/
     [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F06-latin.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/06-latin.ipynb)
 
-## Projects
+### Projects
 
    all
    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects)
@@ -96,5 +96,3 @@ permalink: /modeling/
    * sudoku
    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fsudoku%2Fsudoku.ipynb)
    [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/sudoku/sudoku.ipynb)
-
-  

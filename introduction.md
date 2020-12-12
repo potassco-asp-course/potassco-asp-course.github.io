@@ -3,14 +3,14 @@ layout: page
 title: Introduction
 permalink: /introduction/
 ---
-## Lecture slides
+### Lecture slides
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.6.1/introduction.pdf)
   [git](https://github.com/potassco-asp-course/introduction)
   [v1.2.2](https://github.com/potassco-asp-course/course/releases/tag/v1.2.2)
   [v1.6.1](https://github.com/potassco-asp-course/course/releases/tag/v1.6.1)
 
-## Lecture videos
+### Lecture videos
 
   [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB) 2h49m3s
 
@@ -49,18 +49,18 @@ permalink: /introduction/
 	[yt](https://youtu.be/txlXNHs1rPo)
 	[up](https://mediaup.uni-potsdam.de/Play/24045)
 
-## Extra slides
+### Extra slides
 
   * cheat slide [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/asp-in-one.pdf)
   * exemplars   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/asp-exemplars.pdf)
 
-## Exercise sheets
+### Exercise sheets
 
   [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.0.0/introduction-exercises.pdf)
   [git](https://github.com/potassco-asp-course/exercises/tree/main/introduction)
   [v1.0.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.0.0)
 
-## Exercise videos
+### Exercise videos
 
   [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
 
@@ -75,16 +75,15 @@ permalink: /introduction/
   * safety
     [yt](https://youtu.be/wJ0GAOUFYOQ)
 
-## Practice
+### Practice
 
-  learning ASP from examples 
+  learning ASP from examples
   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction)
   [git](https://github.com/potassco-asp-course/notebooks/tree/master/introduction)
-  
-  * without variables 
+
+  * without variables
   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction%2Fwithout-variables)
   [git](https://github.com/potassco-asp-course/notebooks/tree/master/introduction/without-variables)
-  * with variables 
+  * with variables
   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction%2Fwith-variables)
   [git](https://github.com/potassco-asp-course/notebooks/tree/master/introduction/with-variables)
-  

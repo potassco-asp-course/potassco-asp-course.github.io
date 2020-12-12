@@ -41,26 +41,26 @@ and implementation of ASP systems.
 _Take care, this page will grow and evolve over winter._
 So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) for any comments!
 
-## All in one
+### All in one
 
 The following slide deck and video playlist provide the last snapshot of the current material.
 
-[slides](https://github.com/potassco-asp-course/course/releases/download/v1.6.1/main.pdf) (v1.6.1)
+[slides](https://github.com/potassco-asp-course/course/releases/download/v1.6.5/main.pdf) (v1.6.5)
 [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h)
 
-## Organization
+### Organization
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.0.0/organization.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P6BVlYnEZzBQUABSdvyuCH)
  [workspace](/organization/)
 
-## Motivation
+### Motivation
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.1.0/motivation.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9NrGgRqhS9GXnHjIF12x4AF)
  [workspace](/motivation/)
 
-## Introduction
+### Introduction
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.6.1/introduction.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB)
@@ -69,7 +69,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
  [practice](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction)
  [workspace](/introduction/)
 
-## Modeling
+### Modeling
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/modeling.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002)
@@ -77,19 +77,19 @@ The following slide deck and video playlist provide the last snapshot of the cur
  [projects](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects)
  [workspace](/modeling/)
 
-## Language
+### Language
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.4.1/language.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9PeXzX7mExyVADcMU9b8eJ1)
  [workspace](/language/)
 
-## Extensions
+### Extensions
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.5.0/extensions.pdf)
  [workspace](/extensions/)
 
-## Grounding
+### Grounding
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.6.3/grounding.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.6.5/grounding.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9PRJitHc-lVwLNI2nlMEsSU)
  [workspace](/grounding/)
