@@ -29,6 +29,7 @@ permalink: /grounding/
     [up](https://mediaup.uni-potsdam.de/Play/27515)
   * rule instantiation
 	[yt](https://youtu.be/I9T4IlpJDf8)
+	[up](https://mediaup.uni-potsdam.de/Play/28225)
   * summary
 	[yt](https://youtu.be/tVnATIASgcY)
 	[up](https://mediaup.uni-potsdam.de/Play/28227)
