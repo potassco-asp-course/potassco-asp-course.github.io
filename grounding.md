@@ -4,13 +4,13 @@ title: Grounding
 permalink: /grounding/
 ---
 
-### Slides
+### Lecture slides
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.6.5/grounding.pdf)
   [git](https://github.com/potassco-asp-course/grounding)
   [v1.6.5](https://github.com/potassco-asp-course/course/releases/tag/v1.6.5)
 
-### Videos
+### Lecture videos
 
   [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9PRJitHc-lVwLNI2nlMEsSU) 1h59m20s
 
