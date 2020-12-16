@@ -6,4 +6,6 @@ permalink: /support/
 menu: main
 ---
 
-* [potassco.org](https://potassco.org/)
+* [potassco.org](https://potassco.org)
+  * [clingo](https://potassco.org/clingo)
+  * [support](https://potassco.org/support)
