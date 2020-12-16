@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Support needed..?"
+date:   Wed 16 Dec 2020 05:14:50 PM CET
+categories: page update
+---
+Just augmented our tiny support page by adding a link to the support pages at [potassco.org](https://potassco.org) along
+with one to [clingo's home](https://potassco.org/clingo):
+
+* [potassco.org](https://potassco.org)
+  * [clingo](https://potassco.org/clingo)
+  * [support](https://potassco.org/support)
