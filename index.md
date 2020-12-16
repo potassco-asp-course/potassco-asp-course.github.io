@@ -93,3 +93,9 @@ The following slide deck and video playlist provide the last snapshot of the cur
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.6.5/grounding.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9PRJitHc-lVwLNI2nlMEsSU)
  [workspace](/grounding/)
+
+### Computation
+
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.7.2/main.pdf)
+ [videos](https://youtube.com/playlist?list=PL7DBaibuDD9NbVx8aleanvEAyVRYmvUST)
+ [workspace](/computation/)
