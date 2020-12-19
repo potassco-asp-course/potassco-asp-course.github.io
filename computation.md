@@ -6,13 +6,13 @@ permalink: /computation/
 
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.7.2/main.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.7.3/computation.pdf)
   [git](https://github.com/potassco-asp-course/computation)
-  [v1.7.2](https://github.com/potassco-asp-course/course/releases/tag/v1.7.2)
+  [v1.7.3](https://github.com/potassco-asp-course/course/releases/tag/v1.7.3)
 
 ### Lecture videos
 
-  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9NbVx8aleanvEAyVRYmvUST) hms
+  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9NbVx8aleanvEAyVRYmvUST) 58m56s
 
   * introduction
 	[yt](https://youtu.be/IM_Cxf8aFL8)
@@ -21,10 +21,24 @@ permalink: /computation/
 	[yt](https://youtu.be/Uku4yruGP0g)
 	[up](https://mediaup.uni-potsdam.de/Play/28543)
   * solving from first principles
-	[yt]()
+	[yt](https://youtu.be/UE33COVv0ws)
 	[up]()
-	(**yet to come**)
+  * complexity
+	[yt](https://youtu.be/tm98EfdwGj8)
+	[up]()
   * summary
-	[yt]()
+	[yt](https://youtu.be/5Aud3gkE82U)
 	[up]()
-	(**yet to come**)
+
+### Blue board videos
+
+  * approximation
+	[yt](https://youtu.be/MByOSDjf3vQ)
+    [up]()
+
+### Extra slides
+
+  * blue board, approximation
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.7.3/expand-idea-one.pdf)
+  * expand example
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.7.3/expand-example.pdf)
