@@ -96,6 +96,6 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 ### Computation
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.7.2/main.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.7.3/computation.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9NbVx8aleanvEAyVRYmvUST)
  [workspace](/computation/)

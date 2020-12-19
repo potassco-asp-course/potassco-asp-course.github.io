@@ -22,19 +22,19 @@ permalink: /computation/
 	[up](https://mediaup.uni-potsdam.de/Play/28543)
   * solving from first principles
 	[yt](https://youtu.be/UE33COVv0ws)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/28698)
   * complexity
 	[yt](https://youtu.be/tm98EfdwGj8)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/28699)
   * summary
 	[yt](https://youtu.be/5Aud3gkE82U)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/28700)
 
 ### Blue board videos
 
   * approximation
-	[yt](https://youtu.be/MByOSDjf3vQ)
-    [up]()
+    [yt](https://youtu.be/MByOSDjf3vQ)
+    [up](https://mediaup.uni-potsdam.de/Play/28701)
 
 ### Extra slides
 
