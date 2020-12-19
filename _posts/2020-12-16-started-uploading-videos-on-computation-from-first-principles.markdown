@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Computation from first principles: started iploading videos"
+title:  "Computation from first principles: started uploading videos"
 date:   Wed 16 Dec 2020 05:14:50 PM CET
 categories: video update
 ---
