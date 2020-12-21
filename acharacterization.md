@@ -19,10 +19,10 @@ permalink: /acharacterization/
 	[up](https://mediaup.uni-potsdam.de/Play/28738)
   * completion
 	[yt](https://youtu.be/UdKQSfKl9nk)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/28740)
   * tightness
 	[yt](https://youtu.be/ahzqXCXJ-dg)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/28741)
   * loops
 	[yt]()
 	[up]()
