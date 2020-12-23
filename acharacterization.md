@@ -12,7 +12,7 @@ permalink: /acharacterization/
 
 ### Lecture videos
 
-  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9P_bClrNMkTC9X71oqGOMiA)
+  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9P_bClrNMkTC9X71oqGOMiA) 1h20m15s
 
   * introduction
 	[yt](https://youtu.be/7HGHNq8UclE)
