@@ -6,9 +6,9 @@ permalink: /acharacterization/
 
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.8.0/main.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.8.1/acharacterization.pdf)
   [git](https://github.com/potassco-asp-course/acharacterization)
-  [v1.8.0](https://github.com/potassco-asp-course/course/releases/tag/v1.8.0)
+  [v1.8.0](https://github.com/potassco-asp-course/course/releases/tag/v1.8.1)
 
 ### Lecture videos
 
