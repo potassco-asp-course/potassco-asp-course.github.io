@@ -24,8 +24,8 @@ permalink: /acharacterization/
 	[yt](https://youtu.be/ahzqXCXJ-dg)
 	[up](https://mediaup.uni-potsdam.de/Play/28741)
   * loops
-	[yt]()
+	[yt](https://youtu.be/6A5KUAbVaDw)
 	[up]()
   * summary
-	[yt]()
+	[yt](https://youtu.be/k3SJmh9-geM)
 	[up]()
