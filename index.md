@@ -104,7 +104,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 #### Axiomatic characterization
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.8.0/main.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.8.1/acharacterization.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9P_bClrNMkTC9X71oqGOMiA)
  [workspace](/acharacterization/)
 
