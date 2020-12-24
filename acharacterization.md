@@ -29,3 +29,14 @@ permalink: /acharacterization/
   * summary
 	[yt](https://youtu.be/k3SJmh9-geM)
 	[up]()
+
+### Blue board videos
+
+  * external support and loop formulas
+	[yt]
+	[up]
+
+### Extra slides
+
+  * blue board, external support and loop formulas
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.8.1/external-support-example.pdf)
