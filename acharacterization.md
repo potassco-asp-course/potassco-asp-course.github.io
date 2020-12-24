@@ -33,7 +33,7 @@ permalink: /acharacterization/
 ### Blue board videos
 
   * external support and loop formulas
-	[yt]()
+	[yt](https://youtu.be/_KKEXg0lnUQ)
 	[up]()
 
 ### Extra slides
