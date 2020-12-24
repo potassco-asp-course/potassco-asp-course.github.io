@@ -8,7 +8,7 @@ permalink: /acharacterization/
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.8.1/acharacterization.pdf)
   [git](https://github.com/potassco-asp-course/acharacterization)
-  [v1.8.0](https://github.com/potassco-asp-course/course/releases/tag/v1.8.1)
+  [v1.8.1](https://github.com/potassco-asp-course/course/releases/tag/v1.8.1)
 
 ### Lecture videos
 
@@ -25,7 +25,7 @@ permalink: /acharacterization/
 	[up](https://mediaup.uni-potsdam.de/Play/28741)
   * loops
 	[yt](https://youtu.be/6A5KUAbVaDw)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/28878)
   * summary
 	[yt](https://youtu.be/k3SJmh9-geM)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/28879)
