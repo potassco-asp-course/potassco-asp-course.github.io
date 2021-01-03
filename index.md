@@ -110,4 +110,8 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 #### Operational characterization
 
+ [slides](https://github.com/potassco-asp-course/course/releases/download/1.9.1/main.pdf)
+ [videos](https://youtube.com/playlist?list=PL7DBaibuDD9NkCfCqvMGt9VQXujGg56Wf)
+ [workspace](/ocharacterization/)
+
 #### Proof-theoretic characterization
