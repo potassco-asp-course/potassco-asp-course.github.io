@@ -6,19 +6,19 @@ permalink: /ocharacterization/
 
 ### Lecture slides
 
-  [pdf]()
-  [git]()
-  [v1.X.Y]()
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/1.9.1/main.pdf)
+  [git](https://github.com/potassco-asp-course/operational-characterization)
+  [v1.9.1](https://github.com/potassco-asp-course/course/releases/tag/1.9.1)
 
 ### Lecture videos
 
-  [playlist]() hms
+  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9NkCfCqvMGt9VQXujGg56Wf) hms
 
   * introduction
-	[yt]()
+	[yt](https://youtu.be/IArrXv-8AmI)
 	[up]()
   * fitting operator
-	[yt]()
+	[yt](https://youtu.be/6EK8OqIQJ60)
 	[up]()
   * unfounded sets
 	[yt]()
@@ -33,11 +33,8 @@ permalink: /ocharacterization/
 ### Extra slides
 
   * partial interpretation
-	[yt]()
-	[up]()
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/1.9.1/partial-interpretation.pdf)
   * fitting operator
-	[yt]()
-	[up]()
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/1.9.1/fitting-operator.pdf)
   * well-founded operator
-	[yt]()
-	[up]()
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/1.9.1/well-founded-operator.pdf)
