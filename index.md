@@ -115,3 +115,6 @@ The following slide deck and video playlist provide the last snapshot of the cur
  [workspace](/ocharacterization/)
 
 #### Proof-theoretic characterization
+
+ [slides]()
+ [workspace]()
