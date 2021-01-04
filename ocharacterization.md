@@ -6,9 +6,9 @@ permalink: /ocharacterization/
 
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/1.9.1/main.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.9.2/ocharacterization.pdf)
   [git](https://github.com/potassco-asp-course/operational-characterization)
-  [v1.9.1](https://github.com/potassco-asp-course/course/releases/tag/1.9.1)
+  [v1.9.2](https://github.com/potassco-asp-course/course/releases/tag/v1.9.2)
 
 ### Lecture videos
 
