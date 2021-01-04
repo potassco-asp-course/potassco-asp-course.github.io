@@ -19,9 +19,9 @@ permalink: /ocharacterization/
 	[up](https://mediaup.uni-potsdam.de/Play/29115)
   * fitting operator
 	[yt](https://youtu.be/6EK8OqIQJ60)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/29142)
   * unfounded sets
-	[yt]()
+	[yt](https://youtu.be/6nu_xqoFwuM)
 	[up]()
   * well-founded operator
 	[yt]()
