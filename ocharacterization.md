@@ -33,8 +33,8 @@ permalink: /ocharacterization/
 ### Extra slides
 
   * partial interpretation
-	[pdf](https://github.com/potassco-asp-course/course/releases/download/1.9.1/partial-interpretation.pdf)
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.9.1/partial-interpretation.pdf)
   * fitting operator
-	[pdf](https://github.com/potassco-asp-course/course/releases/download/1.9.1/fitting-operator.pdf)
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.9.1/fitting-operator.pdf)
   * well-founded operator
-	[pdf](https://github.com/potassco-asp-course/course/releases/download/1.9.1/well-founded-operator.pdf)
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.9.1/well-founded-operator.pdf)
