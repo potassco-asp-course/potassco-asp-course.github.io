@@ -28,7 +28,7 @@ permalink: /ocharacterization/
 	[up]()
   * summary
 	[yt](https://youtu.be/YnFjYnSWWW0)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/29370)
 
 ### Blue board videos
 
