@@ -25,10 +25,10 @@ permalink: /ocharacterization/
 	[up](https://mediaup.uni-potsdam.de/Play/29223)
   * well-founded operator
 	[yt](https://youtu.be/ZPszS4t0vmo)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/29367)
   * summary
 	[yt](https://youtu.be/YnFjYnSWWW0)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/29370)
 
 ### Blue board videos
 
