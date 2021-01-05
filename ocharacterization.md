@@ -30,6 +30,16 @@ permalink: /ocharacterization/
 	[yt]()
 	[up]()
 
+### Blue board videos
+
+  * well-founded operator
+	[yt a]()
+	[up a]()
+	[yt b]()
+	[up b]()
+  * well-founded semantics
+	[yt]()
+	[up]()
 ### Extra slides
 
   * partial interpretation
@@ -38,3 +48,8 @@ permalink: /ocharacterization/
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.9.1/fitting-operator.pdf)
   * well-founded operator
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.9.1/well-founded-operator.pdf)
+
+  * blue board, well-founded operator
+	[pdf]()
+  * blue board, well-founded semantics
+	[pdf]()
