@@ -6,9 +6,9 @@ permalink: /acharacterization/
 
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.8.1/acharacterization.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.1/acharacterization.pdf)
   [git](https://github.com/potassco-asp-course/acharacterization)
-  [v1.8.1](https://github.com/potassco-asp-course/course/releases/tag/v1.8.1)
+  [v1.11.1](https://github.com/potassco-asp-course/course/releases/tag/v1.11.1)
 
 ### Lecture videos
 
@@ -40,3 +40,12 @@ permalink: /acharacterization/
 
   * blue board, external support and loop formulas
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.8.1/external-support-example.pdf)
+
+### Errata
+
+  * The
+	[slides](https://github.com/potassco-asp-course/course/releases/download/v1.8.1/acharacterization.pdf)
+	underlying the video on loops have a bug on page 245: the theorem misses that set X must be a model of the program.
+	This is fixed in the
+	[new version](https://github.com/potassco-asp-course/course/releases/download/v1.11.1/acharacterization.pdf)
+	of the slides but not (yet) in the video.
