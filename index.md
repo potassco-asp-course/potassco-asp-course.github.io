@@ -45,8 +45,8 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 The following slide deck and video playlist provide the last snapshot of the current material.
 
-[slides](https://github.com/potassco-asp-course/course/releases/download/v1.9.2/main.pdf) (v1.9.2)
-[videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h) 13h22m41s
+[slides](https://github.com/potassco-asp-course/course/releases/download/v1.9.3/main.pdf) (v1.9.3)
+[videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h) 13h51m52s
 
 ### Organization
 
@@ -110,16 +110,16 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 #### Operational characterization
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.9.2/ocharacterization.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.9.3/ocharacterization.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9NkCfCqvMGt9VQXujGg56Wf)
  [workspace](/ocharacterization/)
 
 #### Proof-theoretic characterization
 
- [slides]()
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.10.0/pcharacterization.pdf)
  [workspace](/pcharacterization/)
 
 ### Solving
 
- [slides]()
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v.1.11.0/solving.pdf)
  [workspace](/solving/)
