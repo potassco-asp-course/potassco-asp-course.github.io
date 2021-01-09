@@ -36,7 +36,7 @@ permalink: /ocharacterization/
 	[yt](https://youtu.be/yTi7Rz0QK_0)
 	[up](https://mediaup.uni-potsdam.de/Play/29336)
   * well-founded operator, b
-	[yt](https://youtu.be/crDCFR0EvOw)
+	[yt](https://youtu.be/s7b8KS5Y9NY)
 	[up](https://mediaup.uni-potsdam.de/Play/29337)
 
 ### Extra slides
