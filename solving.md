@@ -6,9 +6,9 @@ permalink: /solving/
 
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.2/solving.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.3/solving.pdf)
   [git](https://github.com/potassco-asp-course/solving)
-  [v1.11.2](https://github.com/potassco-asp-course/course/releases/tag/v1.11.2)
+  [v1.11.3](https://github.com/potassco-asp-course/course/releases/tag/v1.11.3)
 
 ### Lecture videos
 
@@ -17,3 +17,13 @@ permalink: /solving/
   * introduction
 	[yt](https://youtu.be/VNPK8ANqsJw)
 	[up](https://mediaup.uni-potsdam.de/Play/29702)
+  * boolean constraints
+	[yt](https://youtu.be/FOEbZ3kf0AM)
+	[up](https://mediaup.uni-potsdam.de/Play/29710)
+  * nogoods from logic programs
+	* completion nogoods
+	  [yt](https://youtu.be/wRgJDU1kq0E)
+	  [up](https://mediaup.uni-potsdam.de/Play/29752)
+	* loop nogoods
+	  [yt]()
+	  [up]()

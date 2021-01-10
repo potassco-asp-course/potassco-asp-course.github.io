@@ -122,6 +122,6 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 ### Solving
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.11.2/solving.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.11.3/solving.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9NFCpoQWNCvoSdhPE3kdzmM)
  [workspace](/solving/)
