@@ -23,7 +23,7 @@ permalink: /solving/
   * nogoods from logic programs
 	* completion nogoods
 	  [yt](https://youtu.be/wRgJDU1kq0E)
-	  [up]()
+	  [up](https://mediaup.uni-potsdam.de/Play/29752)
 	* loop nogoods
 	  [yt]()
 	  [up]()
