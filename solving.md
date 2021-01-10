@@ -27,3 +27,19 @@ permalink: /solving/
 	* loop nogoods
 	  [yt]()
 	  [up]()
+  * conflict-driven nogood learning
+	* introduction
+	  [yt]()
+	  [up]()
+    * cdnl algorithm
+	  [yt]()
+	  [up]()
+    * nogood propagation
+	  [yt]()
+	  [up]()
+    * conflict analysis
+	  [yt]()
+	  [up]()
+  * summary
+	  [yt]()
+	  [up]()
