@@ -7,7 +7,7 @@ categories: video update
 
 Happy new year to all of you!!!
 
-We just uploaded the first section's of the part on operational characterizations dealing with Melvin Fitting's operator
+We just uploaded the first sections of the part on operational characterizations dealing with Melvin Fitting's operator
 and the concept of unfounded sets
 
   [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9NkCfCqvMGt9VQXujGg56Wf)

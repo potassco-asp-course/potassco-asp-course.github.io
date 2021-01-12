@@ -1,16 +1,20 @@
 ---
-layout: page
-title: Solving
-permalink: /solving/
+layout: post
+title:  "Uploaded slides and videos on Boolean constraints"
+date:   Tue 12 Jan 2021 12:17:45 PM CET
+categories: video update
 ---
 
-### Lecture slides
+We just uploaded the first sections of the solving part dealing with nogoods for completion and loop formulas,
+the building blocks of our algorithmic framework
+
+### Slides
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.3/solving.pdf)
   [git](https://github.com/potassco-asp-course/solving)
   [v1.11.3](https://github.com/potassco-asp-course/course/releases/tag/v1.11.3)
 
-### Lecture videos
+### Videos
 
   [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9NFCpoQWNCvoSdhPE3kdzmM) hms
 
@@ -27,19 +31,3 @@ permalink: /solving/
 	* loop nogoods
 	  [yt](https://youtu.be/0eHc0EoKLcA)
 	  [up](https://mediaup.uni-potsdam.de/Play/29920)
-  * conflict-driven nogood learning
-	* introduction
-	  [yt]()
-	  [up]()
-    * cdnl algorithm
-	  [yt]()
-	  [up]()
-    * nogood propagation
-	  [yt]()
-	  [up]()
-    * conflict analysis
-	  [yt]()
-	  [up]()
-  * summary
-	  [yt]()
-	  [up]()
