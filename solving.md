@@ -26,7 +26,7 @@ permalink: /solving/
 	  [up](https://mediaup.uni-potsdam.de/Play/29752)
 	* loop nogoods
 	  [yt](https://youtu.be/0eHc0EoKLcA)
-	  [up]()
+	  [up](https://mediaup.uni-potsdam.de/Play/29920)
   * conflict-driven nogood learning
 	* introduction
 	  [yt]()
