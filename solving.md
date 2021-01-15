@@ -29,8 +29,8 @@ permalink: /solving/
 	  [up](https://mediaup.uni-potsdam.de/Play/29920)
   * conflict-driven nogood learning
 	* introduction
-	  [yt]()
-	  [up]()
+	  [yt](https://youtu.be/mZ3Fcxkuyew)
+	  [up](https://mediaup.uni-potsdam.de/Play/30202)
     * cdnl algorithm
 	  [yt]()
 	  [up]()
