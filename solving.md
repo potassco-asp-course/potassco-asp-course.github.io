@@ -31,9 +31,9 @@ permalink: /solving/
 	* introduction
 	  [yt](https://youtu.be/mZ3Fcxkuyew)
 	  [up](https://mediaup.uni-potsdam.de/Play/30202)
-    * cdnl algorithm
-	  [yt]()
-	  [up]()
+    * cdnl search algorithm
+	  [yt](https://youtu.be/N9MSU9wpBr8)
+	  [up](https://mediaup.uni-potsdam.de/Play/30261)
     * nogood propagation
 	  [yt]()
 	  [up]()
