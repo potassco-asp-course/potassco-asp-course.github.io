@@ -6,9 +6,9 @@ permalink: /solving/
 
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.4/solving.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/solving.pdf)
   [git](https://github.com/potassco-asp-course/solving)
-  [v1.11.4](https://github.com/potassco-asp-course/course/releases/tag/v1.11.4)
+  [v1.11.5](https://github.com/potassco-asp-course/course/releases/tag/v1.11.5)
 
 ### Lecture videos
 
