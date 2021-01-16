@@ -6,9 +6,9 @@ permalink: /solving/
 
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.4/solving.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/solving.pdf)
   [git](https://github.com/potassco-asp-course/solving)
-  [v1.11.4](https://github.com/potassco-asp-course/course/releases/tag/v1.11.4)
+  [v1.11.5](https://github.com/potassco-asp-course/course/releases/tag/v1.11.5)
 
 ### Lecture videos
 
@@ -29,11 +29,11 @@ permalink: /solving/
 	  [up](https://mediaup.uni-potsdam.de/Play/29920)
   * conflict-driven nogood learning
 	* introduction
-	  [yt]()
-	  [up]()
-    * cdnl algorithm
-	  [yt]()
-	  [up]()
+	  [yt](https://youtu.be/mZ3Fcxkuyew)
+	  [up](https://mediaup.uni-potsdam.de/Play/30202)
+    * cdnl search algorithm
+	  [yt](https://youtu.be/N9MSU9wpBr8)
+	  [up](https://mediaup.uni-potsdam.de/Play/30261)
     * nogood propagation
 	  [yt]()
 	  [up]()
