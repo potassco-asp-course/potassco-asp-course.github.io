@@ -15,3 +15,18 @@ permalink: /organization/
   [yt](https://youtu.be/fUClBdNpyuA)
   [up](https://mediaup.uni-potsdam.de/Play/22965)
   14m08s
+
+### Literature
+
+  * C. Baral (2003).
+    Knowledge Representation, Reasoning and Declarative Problem Solving.
+	Cambridge University Press.
+  * M. Gebser, R. Kaminski, B. Kaufmann, and T. Schaub (2012).
+	Answer Set Solving in Practice.
+	Synthesis Lectures on Artificial Intelligence and Machine Learning. Morgan and Claypool Publishers.
+  * M. Gelfond and Y. Kahl (2014).
+	Knowledge Representation, Reasoning, and the Design of Intelligent Agents: The Answer-Set Programming Approach.
+	Cambridge University Press.
+  * V. Lifschitz (2019).
+	Answer Set Programming.
+	Springer-Verlag.
