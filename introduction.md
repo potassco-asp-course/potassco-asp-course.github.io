@@ -88,3 +88,10 @@ permalink: /introduction/
     [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction%2Fwith-variables)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/introduction/with-variables)
 
+### Literature
+
+  * M. Gelfond and V. Lifschitz (1990).
+	“Logic Programs with Classical Negation”.
+	In: Proceedings of the Seventh International Conference on Logic Programming (ICLP’90).
+	Ed. by D. Warren and P. Szeredi. MIT Press, pp. 579–597.
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.6.1/stable.pdf)
