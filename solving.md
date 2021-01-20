@@ -35,14 +35,33 @@ permalink: /solving/
 	  [yt](https://youtu.be/N9MSU9wpBr8)
 	  [up](https://mediaup.uni-potsdam.de/Play/30261)
     * nogood propagation
-	  [yt]()
-	  [up]()
+	  [yt](https://youtu.be/4Me26WYUPyw)
+	  [up](https://mediaup.uni-potsdam.de/Play/30698)
     * conflict analysis
 	  [yt]()
 	  [up]()
   * summary
 	  [yt]()
 	  [up]()
+
+### Blue board videos
+
+  * conflict-driven nogood learning, search algorithm
+	[yt](https://youtu.be/czfiCJmb8dI)
+	[up](https://mediaup.uni-potsdam.de/Play/30609)
+  * conflict-driven nogood learning, conflict analysis, resolution
+	[yt](https://youtu.be/Fp0Vq5rfo_k)
+	[up](https://mediaup.uni-potsdam.de/Play/30615)
+
+### Extra slides
+
+  * nogoods, solutions, and unit propagation
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/nogoods-solutions-propagation.pdf)
+
+  * blue board, conflict-driven nogood learning, search algorithm
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/example-cdnl.pdf)
+  * blue board, conflict-driven nogood learning, conflict analysis
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/example-resolution.pdf)
 
 ### Literature
 
