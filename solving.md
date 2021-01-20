@@ -35,8 +35,8 @@ permalink: /solving/
 	  [yt](https://youtu.be/N9MSU9wpBr8)
 	  [up](https://mediaup.uni-potsdam.de/Play/30261)
     * nogood propagation
-	  [yt]()
-	  [up]()
+	  [yt](https://youtu.be/4Me26WYUPyw)
+	  [up](https://mediaup.uni-potsdam.de/Play/30698)
     * conflict analysis
 	  [yt]()
 	  [up]()
