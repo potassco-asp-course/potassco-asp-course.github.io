@@ -48,10 +48,10 @@ permalink: /solving/
 
   * conflict-driven nogood learning, search algorithm
 	[yt](https://youtu.be/czfiCJmb8dI)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/30609)
   * conflict-driven nogood learning, conflict analysis, resolution
 	[yt](https://youtu.be/Fp0Vq5rfo_k)
-	[up]()
+	[up](https://mediaup.uni-potsdam.de/Play/30615)
 
 ### Extra slides
 
