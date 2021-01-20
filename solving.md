@@ -55,6 +55,9 @@ permalink: /solving/
 
 ### Extra slides
 
+  * nogoods, solutions, and unit propagation
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/nogoods-solutions-propagation.pdf)
+
   * blue board, conflict-driven nogood learning, search algorithm
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/example-cdnl.pdf)
   * blue board, conflict-driven nogood learning, conflict analysis
