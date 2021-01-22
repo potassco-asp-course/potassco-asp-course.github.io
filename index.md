@@ -45,9 +45,9 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 The following slide deck and video playlist provide the last snapshot of the current material.
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/main.pdf) (v1.11.5)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.11.6/main.pdf) (v1.11.6)
  [git](https://github.com/potassco-asp-course/course)
- [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h) 15h32m06s
+ [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h) 16h24m49s
 
 ### Organization
 
@@ -122,6 +122,6 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 ### Solving
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/solving.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.11.6/solving.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9NFCpoQWNCvoSdhPE3kdzmM)
  [workspace](/solving/)
