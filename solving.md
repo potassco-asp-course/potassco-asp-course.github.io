@@ -12,7 +12,7 @@ permalink: /solving/
 
 ### Lecture videos
 
-  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9NFCpoQWNCvoSdhPE3kdzmM) hms
+  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9NFCpoQWNCvoSdhPE3kdzmM) 2h32m58s
 
   * introduction
 	[yt](https://youtu.be/VNPK8ANqsJw)
@@ -38,11 +38,11 @@ permalink: /solving/
 	  [yt](https://youtu.be/4Me26WYUPyw)
 	  [up](https://mediaup.uni-potsdam.de/Play/30698)
     * conflict analysis
-	  [yt]()
-	  [up]()
+	  [yt](https://youtu.be/iSnj8JeAzFA)
+	  [up](https://mediaup.uni-potsdam.de/Play/30834)
   * summary
-	  [yt]()
-	  [up]()
+	  [yt](https://youtu.be/xEmgOI65w1Q)
+	  [up](https://mediaup.uni-potsdam.de/Play/30836)
 
 ### Blue board videos
 
