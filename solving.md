@@ -6,9 +6,9 @@ permalink: /solving/
 
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/solving.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.6/solving.pdf)
   [git](https://github.com/potassco-asp-course/solving)
-  [v1.11.5](https://github.com/potassco-asp-course/course/releases/tag/v1.11.5)
+  [v1.11.6](https://github.com/potassco-asp-course/course/releases/tag/v1.11.6)
 
 ### Lecture videos
 
@@ -56,16 +56,16 @@ permalink: /solving/
 ### Extra slides
 
   * nogoods, solutions, and unit propagation
-	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/nogoods-solutions-propagation.pdf)
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.6/nogoods-solutions-propagation.pdf)
 
   * blue board, conflict-driven nogood learning, search algorithm
-	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/example-cdnl.pdf)
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.6/example-cdnl.pdf)
   * blue board, conflict-driven nogood learning, conflict analysis
-	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/example-resolution.pdf)
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.6/example-resolution.pdf)
 
 ### Literature
 
   * M. Gebser, B. Kaufmann, and T. Schaub (2012).
 	“Conflict-Driven Answer Set Solving: From Theory to Practice”.
 	In: Artificial Intelligence 187-188, pp. 52–89.
-	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.5/paper.pdf)
+	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.6/paper.pdf)
