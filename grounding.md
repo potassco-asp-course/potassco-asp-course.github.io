@@ -33,3 +33,14 @@ permalink: /grounding/
   * summary
 	[yt](https://youtu.be/tVnATIASgcY)
 	[up](https://mediaup.uni-potsdam.de/Play/28227)
+
+### Literature
+
+  * M. Gebser, R. Kaminski, and T. Schaub (2012).
+    “Grounding Recursive Aggregates: Preliminary Report”.
+	In: Proceedings of the Third Workshop on Grounding, Transforming, and Modularizing Theories with Variables (GTTV'15).
+	Ed. by M. Denecker and T. Janhunen.
+	[pdf](http://arxiv.org/abs/1603.03884)
+  * S. Abiteboul, R. Hull, and V. Vianu (1995).
+	Foundations of Databases. Addison-Wesley.
+	[web](http://webdam.inria.fr/Alice)
