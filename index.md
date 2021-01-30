@@ -32,11 +32,16 @@ and three practical assignments.
 We teach this usually in a format resembling a **Y**.
 We start with lectures and exercises up to the *Language* part.
 Then, we start a second branch with a tutorial on using ASP systems,
-which enables the students to accomplish the three practical assigments.
+which enables the students to accomplish the three practical assignments.
 (The first assignment is usually on modeling a *Sudoku* puzzle since it nicely relates to the *n-Queens* puzzle treated
 in the part on *Modeling*.)
 Lecture and exercises continue in parallel exploring foundations, algorithms,
 and implementation of ASP systems.
+
+Meanwhile,
+we started our follow-up course dealing with advanced encoding and solving technology.
+The transition is marked with the *Encoding* part that constitutes both the finale of the basic and
+the kick-off of the advanced course.
 
 _Take care, this page will grow and evolve over winter._
 So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) for any comments!
