@@ -45,8 +45,8 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 The following slide deck and video playlist provide the last snapshot of the current material.
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.0/main.pdf)
-         (v1.13.0)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.1/main.pdf)
+         (v1.13.1)
  [git](https://github.com/potassco-asp-course/course)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h) 16h24m49s
 
@@ -134,5 +134,5 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 ### Meta programming
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.0/meta-encoding.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.1/meta-encoding.pdf)
  [workspace](/meta/)

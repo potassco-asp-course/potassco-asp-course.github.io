@@ -5,9 +5,9 @@ permalink: /meta/
 ---
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.13.0/meta-encoding.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.13.1/meta-encoding.pdf)
   [git](https://github.com/potassco-asp-course/meta)
-  [v1.13.0](https://github.com/potassco-asp-course/course/releases/tag/v1.13.0)
+  [v1.13.1](https://github.com/potassco-asp-course/course/releases/tag/v1.13.1)
 
 ### Encodings
 
