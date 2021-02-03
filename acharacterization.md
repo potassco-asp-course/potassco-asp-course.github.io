@@ -49,3 +49,9 @@ permalink: /acharacterization/
 	This is fixed in the
 	[new version](https://github.com/potassco-asp-course/course/releases/download/v1.11.1/acharacterization.pdf)
 	of the slides but not (yet) in the video.
+
+### Exercise sheets
+
+  [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/acharacterization-exercises.pdf)
+  [git](https://github.com/potassco-asp-course/exercises/tree/main/axiomatic-characterization)
+  [v1.2.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.2.0)

@@ -50,3 +50,9 @@ permalink: /ocharacterization/
 
   * blue board, well-founded operator
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.9.3/example-well-founded-iteration.pdf)
+
+### Exercise sheets
+
+  [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/ocharacterization-exercises.pdf)
+  [git](https://github.com/potassco-asp-course/exercises/tree/main/operational-characterization)
+  [v1.2.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.2.0)

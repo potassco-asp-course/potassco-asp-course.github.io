@@ -62,3 +62,10 @@ permalink: /language/
 ## Extras
 
   * aggregates [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.4.1/aggies.pdf)
+
+### Exercise sheets
+
+  [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.1.0/language-exercises.pdf)
+  [git](https://github.com/potassco-asp-course/exercises/tree/main/language)
+  [v1.1.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.1.0)
+

@@ -71,7 +71,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.6.1/introduction.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB)
- [exercises](https://github.com/potassco-asp-course/exercises/releases/download/v1.0.0/introduction-exercises.pdf)
+ [exercises](https://github.com/potassco-asp-course/exercises/releases/download/v1.1.0/introduction-exercises.pdf)
  [solutions](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
  [practice](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction)
  [workspace](/introduction/)
@@ -88,6 +88,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.4.1/language.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9PeXzX7mExyVADcMU9b8eJ1)
+ [exercises](https://github.com/potassco-asp-course/exercises/releases/download/v1.1.0/language-exercises.pdf)
  [workspace](/language/)
 
 ### Extensions
@@ -105,6 +106,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.7.3/computation.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9NbVx8aleanvEAyVRYmvUST)
+ [exercises](https://github.com/potassco-asp-course/exercises/releases/download/1.2.0/computation-exercises.pdf)
  [workspace](/computation/)
 
 ### Characterizations
@@ -113,12 +115,14 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.11.1/acharacterization.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9P_bClrNMkTC9X71oqGOMiA)
+ [exercises](https://github.com/potassco-asp-course/exercises/releases/download/1.2.0/acharacterizetion-exercises.pdf)
  [workspace](/acharacterization/)
 
 #### Operational characterization
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.9.3/ocharacterization.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9NkCfCqvMGt9VQXujGg56Wf)
+ [exercises](https://github.com/potassco-asp-course/exercises/releases/download/1.2.0/ocharacterization-exercises.pdf)
  [workspace](/ocharacterization/)
 
 #### Proof-theoretic characterization
@@ -130,6 +134,8 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.11.6/solving.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9NFCpoQWNCvoSdhPE3kdzmM)
+ [exercises](https://github.com/potassco-asp-course/exercises/releases/download/1.2.0/solving-exercises.pdf)
+ [solutions](https://youtube.com/playlist?list=PL7DBaibuDD9O6yRpfJ8_klmtSf7pJhasS)
  [workspace](/solving/)
 
 ### Encoding
