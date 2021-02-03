@@ -59,3 +59,9 @@ permalink: /ocharacterization/
 	Ed. by M. Kifer and Y. Liu.
 	ACM / Morgan & Claypool, pp. 121–177.
 	[pdf](https://dl.acm.org/doi/abs/10.1145/3191315.3191318)
+
+### Exercise sheets
+
+  [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/ocharacterization-exercises.pdf)
+  [git](https://github.com/potassco-asp-course/exercises/tree/main/operational-characterization)
+  [v1.2.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.2.0)
