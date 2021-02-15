@@ -50,3 +50,12 @@ permalink: /ocharacterization/
 
   * blue board, well-founded operator
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.9.3/example-well-founded-iteration.pdf)
+
+### Literature
+
+  * M. Truszczynski (2018).
+	“An introduction to the stable and well-founded semantics of logic programs”.
+	In: Declarative Logic Programming: Theory, Systems, and Applications.
+	Ed. by M. Kifer and Y. Liu.
+	ACM / Morgan & Claypool, pp. 121–177.
+	[pdf](https://dl.acm.org/doi/abs/10.1145/3191315.3191318)
