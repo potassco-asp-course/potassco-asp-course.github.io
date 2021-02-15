@@ -141,3 +141,20 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.1/meta-encoding.pdf)
  [workspace](/meta/)
+
+### Engineering
+
+#### Multi-shot solving
+
+ [slides]()
+ [workspace](/msolving/)
+
+#### Theory solving
+
+ [slides]()
+ [workspace](/tsolving/)
+
+#### Heuristic-driven solving
+
+ [slides]()
+ [workspace](/hsolving/)
