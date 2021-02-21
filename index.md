@@ -50,8 +50,8 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 The following slide deck and video playlist provide the last snapshot of the current material.
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.1/main.pdf)
-         (v1.13.1)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.2/main.pdf)
+         (v1.13.2)
  [git](https://github.com/potassco-asp-course/course)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h) 16h24m49s
 
@@ -146,15 +146,15 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 #### Multi-shot solving
 
- [slides]()
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.2/msolving.pdf)
  [workspace](/msolving/)
 
 #### Theory solving
 
- [slides]()
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.2/tsolving.pdf)
  [workspace](/tsolving/)
 
 #### Heuristic-driven solving
 
- [slides]()
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.2/hsolving.pdf)
  [workspace](/hsolving/)
