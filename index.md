@@ -84,6 +84,11 @@ The following slide deck and video playlist provide the last snapshot of the cur
  [projects](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects)
  [workspace](/modeling/)
 
+#### Tutorial
+
+ [slides](https://github.com/potassco-asp-course/tutorial/releases/download/v1.2.0/tutorial.pdf)
+ [videos](https://youtube.com/playlist?list=PL7DBaibuDD9O4I05DiQfilqPUgpClMKYu)
+
 ### Language
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.4.1/language.pdf)
@@ -115,7 +120,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.11.1/acharacterization.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9P_bClrNMkTC9X71oqGOMiA)
- [exercises](https://github.com/potassco-asp-course/exercises/releases/download/1.2.0/acharacterizetion-exercises.pdf)
+ [exercises](https://github.com/potassco-asp-course/exercises/releases/download/1.2.0/acharacterization-exercises.pdf)
  [workspace](/acharacterization/)
 
 #### Operational characterization
