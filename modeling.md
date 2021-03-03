@@ -97,6 +97,18 @@ permalink: /modeling/
    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fsudoku%2Fsudoku.ipynb)
    [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/sudoku/sudoku.ipynb)
 
+   * seeknumbers
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fseeknumbers%2Fseeknumbers.ipynb)
+   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/seeknumbers/seeknumbers.ipynb)
+
+   * yosenabe
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fyosenabe%2Fyosenabe.ipynb)
+   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/yosenabe/yosenabe.ipynb)
+
+   * minotaur
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fminotaur%2Fminotaur.ipynb)
+   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/minotaur/minotaur.ipynb)
+
 ### Tutorial slides
 
   [pdf](https://github.com/potassco-asp-course/tutorial/releases/download/v1.2.0/tutorial.pdf)
