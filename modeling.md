@@ -96,3 +96,57 @@ permalink: /modeling/
    * sudoku
    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fsudoku%2Fsudoku.ipynb)
    [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/sudoku/sudoku.ipynb)
+
+   * seeknumbers
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fseeknumbers%2Fseeknumbers.ipynb)
+   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/seeknumbers/seeknumbers.ipynb)
+
+   * yosenabe
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fyosenabe%2Fyosenabe.ipynb)
+   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/yosenabe/yosenabe.ipynb)
+
+   * minotaur
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fminotaur%2Fminotaur.ipynb)
+   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/minotaur/minotaur.ipynb)
+
+### Tutorial slides
+
+  [pdf](https://github.com/potassco-asp-course/tutorial/releases/download/v1.2.0/tutorial.pdf)
+  [git](https://github.com/potassco-asp-course/tutorial)
+  [v1.2.0](https://github.com/potassco-asp-course/tutorial/releases/tag/v1.2.0)
+
+### Tutorial videos
+
+  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9O4I05DiQfilqPUgpClMKYu)
+
+  * organization
+	[yt](https://youtu.be/8bCsZgfBonw)
+  * motivation
+	[yt](https://youtu.be/0nYjm6ZSGv8)
+  * motivation, declarative problem solving
+	[yt](https://youtu.be/gAOaGs_VjLk)
+  * motivation, asp in a nutshell
+	[yt](https://youtu.be/y6K7gLbuHhY)
+  * introduction, introduction
+	[yt](https://youtu.be/iL7SCofdEck)
+  * introduction, first example
+	[yt](https://youtu.be/kDjmqycSy_o)
+  * introduction, running first example
+	[yt](https://youtu.be/PXk3xYbmy_s)
+  * introduction, second example 
+	[yt](https://youtu.be/3LeXwEenKDg)
+  * introduction, examples summary
+	[yt](https://youtu.be/nZ4E8t5ayd8)
+  * introduction, variables first example
+	[yt](https://youtu.be/VTCujuMaVoA)
+  * introduction, variables second example
+	[yt](https://youtu.be/X-vD_pPnrVQ)
+  * introduction, recursion first
+    [yt](https://youtu.be/mp8ruUr9VrQ)
+  * introduction, recursion second
+    [yt](https://youtu.be/EaWTt-PIgh8)
+  * introduction, recursion and negation
+    [yt](https://youtu.be/-ySlCvZS0-A)
+  * introduction, summary
+    [yt](https://youtu.be/vhQXm00W2FE)
+

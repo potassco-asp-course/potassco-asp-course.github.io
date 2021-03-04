@@ -42,3 +42,9 @@ permalink: /computation/
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.7.3/expand-idea-one.pdf)
   * expand example
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.7.3/expand-example.pdf)
+
+### Exercise sheets
+
+  [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/computation-exercises.pdf)
+  [git](https://github.com/potassco-asp-course/exercises/tree/main/computation)
+  [v1.2.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.2.0)

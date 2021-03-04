@@ -69,3 +69,18 @@ permalink: /solving/
 	“Conflict-Driven Answer Set Solving: From Theory to Practice”.
 	In: Artificial Intelligence 187-188, pp. 52–89.
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.6/paper.pdf)
+
+### Exercise sheets
+
+  [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/solving-exercises.pdf)
+  [git](https://github.com/potassco-asp-course/exercises/tree/main/solving)
+  [v1.2.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.2.0)
+
+### Exercise videos
+
+  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9O6yRpfJ8_klmtSf7pJhasS)
+
+  * nogoods
+	[yt](https://youtu.be/odqMoqaLu_o)
+  * nogoods and propagation
+	[yt](https://youtu.be/Ejw8N_iX4z4)
