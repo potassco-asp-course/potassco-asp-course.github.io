@@ -84,3 +84,9 @@ permalink: /solving/
 	[yt](https://youtu.be/odqMoqaLu_o)
   * nogoods and propagation
 	[yt](https://youtu.be/Ejw8N_iX4z4)
+  * conflict analysis
+	[yt](https://youtu.be/iCY_ES2VCUU)
+  * cdnl-asp 1
+	[yt](https://youtu.be/N5waBX0s2ms)
+  * cdnl-asp 2
+	[yt](https://youtu.be/HgiGYRSH-DE)
