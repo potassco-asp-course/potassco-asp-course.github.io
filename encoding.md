@@ -5,9 +5,9 @@ permalink: /encoding/
 ---
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.12.0/encoding.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.13.3/encoding.pdf)
   [git](https://github.com/potassco-asp-course/encoding)
-  [v1.12.0](https://github.com/potassco-asp-course/course/releases/tag/v1.12.0)
+  [v1.13.3](https://github.com/potassco-asp-course/course/releases/tag/v1.13.3)
 
 ### Encodings
 

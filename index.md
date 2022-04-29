@@ -145,7 +145,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 ### Encoding
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.12.0/encoding.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.3/encoding.pdf)
  [workspace](/encoding/)
 
 ### Meta programming
