@@ -20,7 +20,7 @@ The accompanying videos are provided through Potassco's
 and our university's media server.
 All underlying ASP systems are available in open source at [potassco.org](https://potassco.org)
 and installable either from source or various package managers.
-Our native site also contains many other resources around ASP,
+Our [native site](https://potassco.org) also contains many other resources around ASP,
 such as documentation, tutorials, support and much more.
 
 The schedule of the course follows roughly the material presented below and consists (usually) of
