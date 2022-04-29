@@ -43,7 +43,7 @@ we started our follow-up course dealing with advanced encoding and solving techn
 The transition is marked with the *Encoding* part that constitutes both the finale of the basic and
 the kick-off of the advanced course.
 
-_Take care, this page will grow and evolve over winter._
+_Take care, this page will grow and evolve over time._
 So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de) for any comments!
 
 ### All in one
