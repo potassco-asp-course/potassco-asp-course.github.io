@@ -27,3 +27,7 @@ permalink: /encoding/
 	Vol. 6565. Lecture Notes in Computer Science.
 	Springer-Verlag, pp. 74–90.
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.12.0/paper.pdf)
+  * Kaminski, R., Romero, J., Schaub, T., and Wanko, P. (2020).
+	“How to build your own ASP-based system?!”
+	CoRR, abs/2008.06692.
+	[pdf](https://www.cs.uni-potsdam.de/wv/publications/DBLP_journals/corr/abs-2008-06692.pdf)
