@@ -155,7 +155,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 ### Engineering
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.14.0/controlling/.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.14.0/controlling.pdf)
  [workspace](/controlling/)
 
 #### Multi-shot solving
