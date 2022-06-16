@@ -73,21 +73,22 @@ The following slide deck and video playlist provide the last snapshot of the cur
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB)
  [exercises](https://github.com/potassco-asp-course/exercises/releases/download/v1.1.0/introduction-exercises.pdf)
  [solutions](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
- [practice](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=introduction)
+ [practice](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Ftutorial%2Flanguage%2Flearning-from-examples%2F)
  [workspace](/introduction/)
 
 ### Modeling
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/modeling.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002)
- [practice](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling)
- [projects](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects)
+ [practice](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fmodeling)
+ [projects](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects)
  [workspace](/modeling/)
 
 #### Tutorial
 
  [slides](https://github.com/potassco-asp-course/tutorial/releases/download/v1.2.0/tutorial.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9O4I05DiQfilqPUgpClMKYu)
+ [practice](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Ftutorial)
 
 ### Language
 
