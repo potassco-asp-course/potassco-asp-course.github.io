@@ -65,48 +65,48 @@ permalink: /modeling/
 ### Practice
 
   basic modeling exercises
-  [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling)
+  [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?urlpath=lab%2Ftree%2Fmodeling)
   [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling)
 
   * hitting set
-    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F01-hitting.ipynb)
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fmodeling%2F01-hitting.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/01-hitting.ipynb)
   * independent set
-    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F02-independent.ipynb)
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fmodeling%2F02-independent.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/02-independent.ipynb)
   * vertex cover
-    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F03-cover.ipynb)
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fmodeling%2F03-cover.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/03-cover.ipynb)
   * dominating set
-    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F04-dominating.ipynb)
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fmodeling%2F04-dominating.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/04-dominating.ipynb)
   * satisfiability
-    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F05-satisfiability.ipynb)
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fmodeling%2F05-satisfiability.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/05-satisfiability.ipynb)
   * latin squares
-    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=modeling%2F06-latin.ipynb)
+    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fmodeling%2F06-latin.ipynb)
     [git](https://github.com/potassco-asp-course/notebooks/tree/master/modeling/06-latin.ipynb)
 
 ### Projects
 
    all
-   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects)
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects)
    [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects)
 
    * sudoku
-   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fsudoku%2Fsudoku.ipynb)
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fsudoku%2Fsudoku.ipynb)
    [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/sudoku/sudoku.ipynb)
 
    * seeknumbers
-   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fseeknumbers%2Fseeknumbers.ipynb)
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fseeknumbers%2Fseeknumbers.ipynb)
    [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/seeknumbers/seeknumbers.ipynb)
 
    * yosenabe
-   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fyosenabe%2Fyosenabe.ipynb)
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fyosenabe%2Fyosenabe.ipynb)
    [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/yosenabe/yosenabe.ipynb)
 
    * minotaur
-   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/master?filepath=projects%2Fminotaur%2Fminotaur.ipynb)
+   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fminotaur%2Fminotaur.ipynb)
    [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/minotaur/minotaur.ipynb)
 
 ### Tutorial slides
