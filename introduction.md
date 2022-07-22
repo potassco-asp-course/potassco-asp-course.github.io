@@ -63,15 +63,30 @@ permalink: /introduction/
 ### Exercise videos
 
   [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NoIuBH3gj8RUZoqXCKBl4W)
 
   * positive programs
-	[yt](https://youtu.be/5reTvAe2QBE)
+	* a [yt](https://youtu.be/5reTvAe2QBE)
+	* b [yt](https://youtu.be/ZksnOziJLfI)
+	* c [yt](https://youtu.be/EcaJipH20Vw)
+	* d [yt](https://youtu.be/QCQGfGYax1c)
   * normal programs
-	[yt](https://youtu.be/7jkpKxGwbno)
+	* a [yt](https://youtu.be/7jkpKxGwbno)
+	* b [yt](https://youtu.be/QXKmgw3pBT8)
+	* c [yt](https://youtu.be/7_se9k6DO0g)
+	* d [yt](https://youtu.be/cfHDIncvgWs)
   * positive programs with variables
-    [yt](https://youtu.be/Gbiq8j7dprg)
+    * intro [yt](https://youtu.be/Gbiq8j7dprg)
+    * a [yt](https://youtu.be/VAWnbqnexCE)
+    * b [yt](https://youtu.be/L83AkrbL2wk)
+    * c [yt](https://youtu.be/ZeIpA-KydJ8)
+    * d [yt](https://youtu.be/vJijxi3Y8uE)
   * normal programs with variables
-    [yt](https://youtu.be/Z61fm6vamRI)
+    * intro [yt](https://youtu.be/Z61fm6vamRI)
+    * a [yt](https://youtu.be/gHxZBVSr-wA)
+    * b [yt](https://youtu.be/fRdJlCpcN4k)
+    * c [yt](https://youtu.be/Skk6h3ahY3g)
+    * d [yt](https://youtu.be/R4bEWq5DpNc)
   * safety
     [yt](https://youtu.be/wJ0GAOUFYOQ)
 

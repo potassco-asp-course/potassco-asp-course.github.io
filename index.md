@@ -72,7 +72,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.6.1/introduction.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB)
  [exercises](https://github.com/potassco-asp-course/exercises/releases/download/v1.1.0/introduction-exercises.pdf)
- [solutions](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby)
+ [solutions](https://www.youtube.com/playlist?list=PL7DBaibuDD9NoIuBH3gj8RUZoqXCKBl4W)
  [practice](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Ftutorial%2Flanguage%2Flearning-from-examples%2F)
  [workspace](/introduction/)
 
