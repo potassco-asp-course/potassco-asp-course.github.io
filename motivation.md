@@ -5,9 +5,9 @@ permalink: /motivation/
 ---
 ### Slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.1.0/motivation.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.17.0/motivation.pdf)
   [git](https://github.com/potassco-asp-course/motivation)
-  [v1.1.0](https://github.com/potassco-asp-course/course/releases/tag/v1.1.0)
+  [v1.17.0](https://github.com/potassco-asp-course/course/releases/tag/v1.17.0)
 
 ### Videos
 
@@ -40,3 +40,5 @@ permalink: /motivation/
   * summary
 	[yt](https://youtu.be/R5yyiyb3edg)
 	[up](https://mediaup.uni-potsdam.de/Play/23107)
+
+  Videos follow the slides of [v1.1.0](https://github.com/potassco-asp-course/course/releases/download/v1.1.0/motivation.pdf)

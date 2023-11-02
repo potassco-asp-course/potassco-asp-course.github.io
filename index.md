@@ -50,8 +50,8 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 The following slide deck and video playlist provide the last snapshot of the current material.
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.16.0/main.pdf)
-         (v1.16.0)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.17.0/main.pdf)
+         (v1.17.0)
  [git](https://github.com/potassco-asp-course/course)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h) 16h24m49s
 
@@ -63,7 +63,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 ### Motivation
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.1.0/motivation.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.17.0/motivation.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9NrGgRqhS9GXnHjIF12x4AF)
  [workspace](/motivation/)
 
