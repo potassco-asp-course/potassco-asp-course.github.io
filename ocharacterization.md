@@ -57,7 +57,7 @@ permalink: /ocharacterization/
 	“An introduction to the stable and well-founded semantics of logic programs”.
 	In: Declarative Logic Programming: Theory, Systems, and Applications.
 	Ed. by M. Kifer and Y. Liu.
-	ACM / Morgan & Claypool, pp. 121–177.
+	ACM / Morgan & Claypool, pp. 121-177.
 	[pdf](https://dl.acm.org/doi/abs/10.1145/3191315.3191318)
 
 ### Exercise sheets

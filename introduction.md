@@ -109,5 +109,5 @@ permalink: /introduction/
   * M. Gelfond and V. Lifschitz (1990).
 	“Logic Programs with Classical Negation”.
 	In: Proceedings of the Seventh International Conference on Logic Programming (ICLP’90).
-	Ed. by D. Warren and P. Szeredi. MIT Press, pp. 579–597.
+	Ed. by D. Warren and P. Szeredi. MIT Press, pp. 579-597.
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.6.1/stable.pdf)

@@ -25,7 +25,7 @@ permalink: /encoding/
 	Essays Dedicated to Michael Gelfond on the Occasion of His 65th Birthday.
 	Ed. by M. Balduccini and T. Son.
 	Vol. 6565. Lecture Notes in Computer Science.
-	Springer-Verlag, pp. 74–90.
+	Springer-Verlag, pp. 74-90.
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.12.0/paper.pdf)
   * Kaminski, R., Romero, J., Schaub, T., and Wanko, P. (2023).
 	“How to build your own ASP-based system?!”

@@ -67,7 +67,7 @@ permalink: /solving/
 
   * M. Gebser, B. Kaufmann, and T. Schaub (2012).
 	“Conflict-Driven Answer Set Solving: From Theory to Practice”.
-	In: Artificial Intelligence 187-188, pp. 52–89.
+	In: Artificial Intelligence 187-188, pp. 52-89.
 	[pdf](https://github.com/potassco-asp-course/course/releases/download/v1.11.6/paper.pdf)
 
 ### Exercise sheets
