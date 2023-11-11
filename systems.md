@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Potassco systems
+title: Systems
 permalink: /systems/
 ---
 ### Lecture slides
