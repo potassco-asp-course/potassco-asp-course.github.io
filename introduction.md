@@ -48,10 +48,13 @@ permalink: /introduction/
 	[yt](https://youtu.be/txlXNHs1rPo)
 	[up](https://mediaup.uni-potsdam.de/Play/24045)
 
+  Videos follow the slides of [v1.2.2](https://github.com/potassco-asp-course/course/releases/tag/v1.2.2)
+
 ### Extra slides
 
   * cheat slide [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/asp-in-one.pdf)
   * exemplars   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.2.2/asp-exemplars.pdf)
+  * equilibrium logic [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.18.0/ht.pdf)
 
 ### Exercise sheets
 
