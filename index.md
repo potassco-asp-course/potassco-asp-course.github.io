@@ -173,3 +173,8 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.2/hsolving.pdf)
  [workspace](/hsolving/)
+
+### Systems
+
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.19.0/systems.pdf)
+ [workspace](/systems/)
