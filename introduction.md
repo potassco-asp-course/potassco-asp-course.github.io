@@ -7,7 +7,7 @@ permalink: /introduction/
 
   [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.18.0/introduction.pdf)
   [git](https://github.com/potassco-asp-course/introduction)
-  [v1.18.2](https://github.com/potassco-asp-course/course/releases/tag/v1.18.0)
+  [v1.18.0](https://github.com/potassco-asp-course/course/releases/tag/v1.18.0)
 
 ### Lecture videos
 
