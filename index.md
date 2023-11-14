@@ -176,5 +176,5 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 ### Systems
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.19.3/systems.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.19.4/systems.pdf)
  [workspace](/systems/)
