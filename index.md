@@ -50,14 +50,14 @@ So stay tuned and drop us an [email](mailto:torsten@delete-me.cs.uni-potsdam.de)
 
 The following slide deck and video playlist provide the last snapshot of the current material.
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.18.0/all.pdf)
-         (v1.18.0)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/main.pdf)
+         (v1.21.0)
  [git](https://github.com/potassco-asp-course/course)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P5yRyq_Oyn-wuYpBayz_0h) 16h24m49s
 
 ### Organization
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.16.0/organization23.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/organization.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9P6BVlYnEZzBQUABSdvyuCH)
  [workspace](/organization/)
 
@@ -78,7 +78,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 ### Modeling
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/modeling.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/modeling.pdf)
  [videos](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002)
  [practice](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fmodeling)
  [projects](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects)
@@ -156,25 +156,25 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
 ### Engineering
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.14.0/controlling.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/controlling.pdf)
  [workspace](/controlling/)
 
 #### Multi-shot solving
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.14.1/msolving.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/msolving.pdf)
  [workspace](/msolving/)
 
 #### Theory solving
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.2/tsolving.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/tsolving.pdf)
  [workspace](/tsolving/)
 
 #### Heuristic-driven solving
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.2/hsolving.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/hsolving.pdf)
  [workspace](/hsolving/)
 
 ### Systems
 
- [slides](https://github.com/potassco-asp-course/course/releases/download/v1.19.6/systems.pdf)
+ [slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/systems.pdf)
  [workspace](/systems/)

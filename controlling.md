@@ -5,9 +5,9 @@ permalink: /controlling/
 ---
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.14.0/controlling.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/controlling.pdf)
   [git](https://github.com/potassco-asp-course/controlling)
-  [v.14.0](https://github.com/potassco-asp-course/course/releases/tag/v1.14.0)
+  [v.21.0](https://github.com/potassco-asp-course/course/releases/tag/v1.21.0)
 
 ### Literature
 

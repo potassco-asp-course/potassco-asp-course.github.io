@@ -5,9 +5,9 @@ permalink: /systems/
 ---
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.19.6/systems.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/systems.pdf)
   [git](https://github.com/potassco-asp-course/systems)
-  [v.19.6](https://github.com/potassco-asp-course/course/releases/tag/v1.19.6)
+  [v.21.0](https://github.com/potassco-asp-course/course/releases/tag/v1.21.0)
 
 ### Literature
 

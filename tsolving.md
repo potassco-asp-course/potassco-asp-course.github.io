@@ -5,9 +5,9 @@ permalink: /tsolving/
 ---
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.13.2/tsolving.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/tsolving.pdf)
   [git](https://github.com/potassco-asp-course/tsolving)
-  [v.13.2](https://github.com/potassco-asp-course/course/releases/tag/v1.13.2)
+  [v.21.0](https://github.com/potassco-asp-course/course/releases/tag/v1.21.0)
 
 ### Literature
 

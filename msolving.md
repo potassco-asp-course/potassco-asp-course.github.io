@@ -5,9 +5,9 @@ permalink: /msolving/
 ---
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.14.1/msolving.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/msolving.pdf)
   [git](https://github.com/potassco-asp-course/msolving)
-  [v.14.1](https://github.com/potassco-asp-course/course/releases/tag/v1.14.1)
+  [v.21.0](https://github.com/potassco-asp-course/course/releases/tag/v1.21.0)
 
 ### Literature
 

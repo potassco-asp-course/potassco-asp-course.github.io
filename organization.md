@@ -6,9 +6,9 @@ permalink: /organization/
 
 ### Slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.16.0/organization23.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/organization.pdf)
   [git](https://github.com/potassco-asp-course/organization)
-  [v1.16.0](https://github.com/potassco-asp-course/course/releases/tag/v1.16.0)
+  [v1.21.0](https://github.com/potassco-asp-course/course/releases/tag/v1.21.0)
 
 ### Videos
 

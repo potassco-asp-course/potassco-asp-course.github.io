@@ -5,9 +5,9 @@ permalink: /modeling/
 ---
 ### Lecture slides
 
-  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.3.1/modeling.pdf)
+  [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/modeling.pdf)
   [git](https://github.com/potassco-asp-course/modeling)
-  [v1.3.1](https://github.com/potassco-asp-course/course/releases/tag/v1.3.1)
+  [v1.21.0](https://github.com/potassco-asp-course/course/releases/tag/v1.21.0)
 
 ### Encodings
 
@@ -61,6 +61,8 @@ permalink: /modeling/
   * summary
 	[yt](https://youtu.be/52-LWJO6gTM)
 	[up](https://mediaup.uni-potsdam.de/Play/24794)
+
+  Videos follow the slides of [v1.3.1](https://github.com/potassco-asp-course/course/releases/tag/v1.3.1)
 
 ### Practice
 
