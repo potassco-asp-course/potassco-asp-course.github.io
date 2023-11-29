@@ -135,7 +135,7 @@ permalink: /modeling/
 	[yt](https://youtu.be/kDjmqycSy_o)
   * introduction, running first example
 	[yt](https://youtu.be/PXk3xYbmy_s)
-  * introduction, second example 
+  * introduction, second example
 	[yt](https://youtu.be/3LeXwEenKDg)
   * introduction, examples summary
 	[yt](https://youtu.be/nZ4E8t5ayd8)
@@ -151,4 +151,3 @@ permalink: /modeling/
     [yt](https://youtu.be/-ySlCvZS0-A)
   * introduction, summary
     [yt](https://youtu.be/vhQXm00W2FE)
-
