@@ -96,20 +96,17 @@ permalink: /modeling/
    [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects)
 
    * sudoku
-   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fsudoku%2Fsudoku.ipynb)
-   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/sudoku/sudoku.ipynb)
-
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fsudoku%2Fsudoku.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/sudoku/sudoku.ipynb)
    * seeknumbers
-   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fseeknumbers%2Fseeknumbers.ipynb)
-   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/seeknumbers/seeknumbers.ipynb)
-
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fseeknumbers%2Fseeknumbers.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/seeknumbers/seeknumbers.ipynb)
    * yosenabe
-   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fyosenabe%2Fyosenabe.ipynb)
-   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/yosenabe/yosenabe.ipynb)
-
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fyosenabe%2Fyosenabe.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/yosenabe/yosenabe.ipynb)
    * minotaur
-   [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fminotaur%2Fminotaur.ipynb)
-   [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/minotaur/minotaur.ipynb)
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fminotaur%2Fminotaur.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/minotaur/minotaur.ipynb)
 
 ### Tutorial slides
 
