@@ -35,7 +35,7 @@ permalink: /language/
 	  [up](https://mediaup.uni-potsdam.de/Play/25591)
     * conditional literals
 	  [yt](https://youtu.be/I6OInwEi-eg)
-	  [up](https://mediaup.uni-potsdam.de/Play/25591)
+	  [up](https://mediaup.uni-potsdam.de/Play/25593)
   * optimization
 	[yt](https://youtu.be/_CgTpOJ3W88)
 	[up](https://mediaup.uni-potsdam.de/Play/25741)
