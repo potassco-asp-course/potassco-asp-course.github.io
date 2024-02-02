@@ -112,7 +112,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.7.3/computation.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9NbVx8aleanvEAyVRYmvUST)
- [exercises](https://github.com/potassco-asp-course/exercises/releases/download/1.2.0/computation-exercises.pdf)
+ [exercises](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/computation-exercises.pdf)
  [workspace](/computation/)
 
 ### Characterizations
@@ -121,14 +121,14 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.11.1/acharacterization.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9P_bClrNMkTC9X71oqGOMiA)
- [exercises](https://github.com/potassco-asp-course/exercises/releases/download/1.2.0/acharacterization-exercises.pdf)
+ [exercises](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/acharacterization-exercises.pdf)
  [workspace](/acharacterization/)
 
 #### Operational characterization
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.9.3/ocharacterization.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9NkCfCqvMGt9VQXujGg56Wf)
- [exercises](https://github.com/potassco-asp-course/exercises/releases/download/1.2.0/ocharacterization-exercises.pdf)
+ [exercises](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/ocharacterization-exercises.pdf)
  [workspace](/ocharacterization/)
 
 #### Proof-theoretic characterization
@@ -140,7 +140,7 @@ The following slide deck and video playlist provide the last snapshot of the cur
 
  [slides](https://github.com/potassco-asp-course/course/releases/download/v1.11.6/solving.pdf)
  [videos](https://youtube.com/playlist?list=PL7DBaibuDD9NFCpoQWNCvoSdhPE3kdzmM)
- [exercises](https://github.com/potassco-asp-course/exercises/releases/download/1.2.0/solving-exercises.pdf)
+ [exercises](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/solving-exercises.pdf)
  [solutions](https://youtube.com/playlist?list=PL7DBaibuDD9O6yRpfJ8_klmtSf7pJhasS)
  [workspace](/solving/)
 
