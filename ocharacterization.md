@@ -16,28 +16,28 @@ permalink: /ocharacterization/
 
   * introduction
 	[yt](https://youtu.be/IArrXv-8AmI)
-	[up](https://mediaup.uni-potsdam.de/Play/29115)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=7ddbabbd-a1c7-4625-b721-b161007d8ab1)
   * fitting operator
 	[yt](https://youtu.be/6EK8OqIQJ60)
-	[up](https://mediaup.uni-potsdam.de/Play/29142)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e7b7c16d-5774-4ac3-8dbd-b161007dc2d5)
   * unfounded sets
 	[yt](https://youtu.be/6nu_xqoFwuM)
-	[up](https://mediaup.uni-potsdam.de/Play/29223)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a79257d5-f8e7-4676-a343-b161007e1e98)
   * well-founded operator
 	[yt](https://youtu.be/ZPszS4t0vmo)
-	[up](https://mediaup.uni-potsdam.de/Play/29367)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cebdae14-5eb9-4dbb-bc18-b161007e7074)
   * summary
 	[yt](https://youtu.be/YnFjYnSWWW0)
-	[up](https://mediaup.uni-potsdam.de/Play/29370)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=ed92668b-a290-4796-9ee8-b161007dcb8d)
 
 ### Blue board videos
 
   * well-founded operator, a
 	[yt](https://youtu.be/yTi7Rz0QK_0)
-	[up](https://mediaup.uni-potsdam.de/Play/29336)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=1bb28904-2949-417e-a929-b161007e269e)
   * well-founded operator, b
 	[yt](https://youtu.be/s7b8KS5Y9NY)
-	[up](https://mediaup.uni-potsdam.de/Play/29337)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=8a72e7c5-d1ec-4b6c-9117-b161007e2e50)
 
 ### Extra slides
 

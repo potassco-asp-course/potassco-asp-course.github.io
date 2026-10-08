@@ -15,38 +15,38 @@ permalink: /introduction/
 
   * introduction
 	[yt](https://youtu.be/_9dlDE1OsQA)
-	[up](https://mediaup.uni-potsdam.de/Play/23477)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=b2c2cb01-5ebf-4047-a10b-b1610079c34d)
   * syntax
 	[yt](https://youtu.be/FKpmMIgsQhM)
-	[up](https://mediaup.uni-potsdam.de/Play/23491)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=87c7f120-ca81-4c4d-b7fc-b161007ad863)
   * semantics
 	* setup
 	  [yt](https://youtu.be/Fmj0KJL_i04)
-	  [up](https://mediaup.uni-potsdam.de/Play/23594)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=746de1c9-5957-4b22-85fa-b161007a0437)
 	* closure
 	  [yt](https://youtu.be/gN6WHEweXOg)
-	  [up](https://mediaup.uni-potsdam.de/Play/23600)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=0bdf1ef9-168d-4bf3-8c4d-b161007a6749)
 	* idea
 	  [yt](https://youtu.be/5_TyvPf8G7Q)
-	  [up](https://mediaup.uni-potsdam.de/Play/23657)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e7849d03-46a7-433e-a84f-b161007a921a)
     * definition
 	  [yt](https://youtu.be/T_AqkLQHxhw)
-	  [up](https://mediaup.uni-potsdam.de/Play/23659)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=d1996f60-8ea4-417c-9fa9-b161007a9f69)
     * exemplars
 	  [yt](https://youtu.be/CWDA5QqEpf4)
-	  [up](https://mediaup.uni-potsdam.de/Play/23672)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=5295586f-5b09-4c59-99a8-b161007abc26)
   * reasoning
 	[yt](https://youtu.be/h3Ghk89pl1o)
-	[up](https://mediaup.uni-potsdam.de/Play/24025)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=f66f0d85-677a-476f-9348-b161007a0952)
   * language
     [yt](https://youtu.be/p9oiyabH6yo)
-	[up](https://mediaup.uni-potsdam.de/Play/25748)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=7a65aff4-9d2a-48f6-bbda-b161007a2772)
   * variables
 	[yt](https://youtu.be/URcN0EEZoN4)
-	[up](https://mediaup.uni-potsdam.de/Play/24046)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=44cc2c7f-30a4-418f-92da-b161007b0b37)
   * summary
 	[yt](https://youtu.be/txlXNHs1rPo)
-	[up](https://mediaup.uni-potsdam.de/Play/24045)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=48507c77-f9da-40f9-8331-b161007ac0e7)
 
   Videos follow the slides of [v1.2.2](https://github.com/potassco-asp-course/course/releases/tag/v1.2.2)
 

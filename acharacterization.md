@@ -16,25 +16,25 @@ permalink: /acharacterization/
 
   * introduction
 	[yt](https://youtu.be/7HGHNq8UclE)
-	[up](https://mediaup.uni-potsdam.de/Play/28738)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=6f4cb0e9-2d89-44f9-9bcf-b16100787c19)
   * completion
 	[yt](https://youtu.be/UdKQSfKl9nk)
-	[up](https://mediaup.uni-potsdam.de/Play/28740)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=02854c2a-f0cb-4839-9d80-b16100787355)
   * tightness
 	[yt](https://youtu.be/ahzqXCXJ-dg)
-	[up](https://mediaup.uni-potsdam.de/Play/28741)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=c34925fd-649d-4377-bd2e-b16100784c74)
   * loops
 	[yt](https://youtu.be/6A5KUAbVaDw)
-	[up](https://mediaup.uni-potsdam.de/Play/28878)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a6b461d8-da2f-46a1-aaa2-b161007829c2)
   * summary
 	[yt](https://youtu.be/k3SJmh9-geM)
-	[up](https://mediaup.uni-potsdam.de/Play/28879)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a9a62e74-54e1-4713-b380-b1610077da2a)
 
 ### Blue board videos
 
   * external support and loop formulas
 	[yt](https://youtu.be/_KKEXg0lnUQ)
-	[up](https://mediaup.uni-potsdam.de/Play/28881)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=b9d1aa8a-46e8-4d3d-a444-b1610077b060)
 
 ### Extra slides
 

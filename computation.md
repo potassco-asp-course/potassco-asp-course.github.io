@@ -16,25 +16,25 @@ permalink: /computation/
 
   * introduction
 	[yt](https://youtu.be/IM_Cxf8aFL8)
-	[up](https://mediaup.uni-potsdam.de/Play/28539)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=d518cfe7-c189-4f44-8d20-b1610078813d)
   * consequence operator (reloaded)
 	[yt](https://youtu.be/Uku4yruGP0g)
-	[up](https://mediaup.uni-potsdam.de/Play/28543)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=9afa2de3-8bf8-4fd7-9cef-b161007893e9)
   * solving from first principles
 	[yt](https://youtu.be/UE33COVv0ws)
-	[up](https://mediaup.uni-potsdam.de/Play/28698)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=3dd9e92f-026f-4379-a7e8-b1610078df46)
   * complexity
 	[yt](https://youtu.be/tm98EfdwGj8)
-	[up](https://mediaup.uni-potsdam.de/Play/28699)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=31ac7804-17cd-49f2-836f-b1610077bf07)
   * summary
 	[yt](https://youtu.be/5Aud3gkE82U)
-	[up](https://mediaup.uni-potsdam.de/Play/28700)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=3a6a09d5-5eff-436a-97c9-b1610079bfb6)
 
 ### Blue board videos
 
   * approximation
     [yt](https://youtu.be/MByOSDjf3vQ)
-    [up](https://mediaup.uni-potsdam.de/Play/28701)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=0b9d77d3-a52d-443d-a458-b1610077d1d4)
 
 ### Extra slides
 

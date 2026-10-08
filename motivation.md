@@ -15,30 +15,30 @@ permalink: /motivation/
 
   * introduction
 	[yt](https://youtu.be/_nOPF6eaMeQ)
-    [up](https://mediaup.uni-potsdam.de/Play/23002)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=02ff9418-7b07-4845-8eeb-b161007cc45c)
   * declarative problem solving
 	[yt](https://youtu.be/H0Qzvii2ZrI)
-    [up](https://mediaup.uni-potsdam.de/Play/23005)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=bc751a07-3b1e-454e-9b28-b161007cd77f)
   * asp in a nutshell
 	[yt](https://youtu.be/y6K7gLbuHhY)
-	[up](https://mediaup.uni-potsdam.de/Play/23055)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=06d31e9c-d6b7-4bfb-8321-b161007cdf18)
   * evolution
 	[yt](https://youtu.be/Lc2se6bj-Jo)
-	[up](https://mediaup.uni-potsdam.de/Play/23101)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=babebc1b-9233-429a-acbb-b161007d418e)
   * foundations
 	[yt](https://youtu.be/h10ot9OyM38)
-	[up](https://mediaup.uni-potsdam.de/Play/23103)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=9623174a-351d-42bd-a3e1-b161007d65b4)
   * workflow
 	[yt](https://youtu.be/4ZaVI36s6hs)
-	[up](https://mediaup.uni-potsdam.de/Play/23104)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=5a004126-73ed-4d16-a7aa-b161007d6ab1)
   * engine
 	[yt](https://youtu.be/WX-53B9Pq54)
-	[up](https://mediaup.uni-potsdam.de/Play/23105)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=d10d7f27-3529-4db4-8fc1-b161007ceb9e)
   * usage
 	[yt](https://youtu.be/KVVXFd8CuGM)
-	[up](https://mediaup.uni-potsdam.de/Play/23106)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a45f331f-afbe-426e-8779-b161007d6f50)
   * summary
 	[yt](https://youtu.be/R5yyiyb3edg)
-	[up](https://mediaup.uni-potsdam.de/Play/23107)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=5f144e00-4a5a-4c42-801d-b161007d78b0)
 
   Videos follow the slides of [v1.1.0](https://github.com/potassco-asp-course/course/releases/download/v1.1.0/motivation.pdf)

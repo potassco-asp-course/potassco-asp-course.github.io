@@ -30,37 +30,37 @@ permalink: /modeling/
 
   * introduction
 	[yt](https://youtu.be/xuNQF04tqD0)
-	[up](https://mediaup.uni-potsdam.de/Play/24088)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=9c95b5c7-4a29-46a0-b072-b161007c2628)
   * elaboration
 	[yt](https://youtu.be/_is_x-eaFEM)
-	[up](https://mediaup.uni-potsdam.de/Play/24097)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=00262745-b38e-4930-b961-b161007c2be0)
   * workflow
 	[yt](https://youtu.be/cnvjafmJTVc)
-	[up](https://mediaup.uni-potsdam.de/Play/24099)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a9c8e191-3d9b-4a58-859d-b161007d2073)
   * methodology
 	[yt](https://youtu.be/7HciHpz1dHo)
-	[up](https://mediaup.uni-potsdam.de/Play/24100)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=67f6d604-f6eb-4f83-b537-b161007c3176)
   * case studies
 	  [yt](https://youtu.be/j1YPqsdSUxA)
-	  [up](https://mediaup.uni-potsdam.de/Play/24628)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=bd3d83a0-fc79-40c4-b6a7-b161007c34ef)
 	* sat
 	  [yt](https://youtu.be/BI7ZzDAO2uY)
-	  [up](https://mediaup.uni-potsdam.de/Play/24630)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a8c075b4-d82b-46fe-9533-b161007c3cc3)
 	* queens
 	  [yt](https://youtu.be/EnLHTnAIiss)
-	  [up](https://mediaup.uni-potsdam.de/Play/24747)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=6777e933-595b-4dc3-81a3-b161007c7445)
 	* salesperson
 	  [yt](https://youtu.be/H6PsxX_mnYk)
-	  [up](https://mediaup.uni-potsdam.de/Play/24771)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=ceb99d9c-1d6e-4630-a406-b161007c8fcd)
 	* assignment
 	  [yt](https://youtu.be/WjwHWoMIydo)
-	  [up](https://mediaup.uni-potsdam.de/Play/24790)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=52d10cf7-886f-4c1d-8613-b161007ca3fc)
 	* planning
 	  [yt](https://youtu.be/Rn-jPtQjFro)
-	  [up](https://mediaup.uni-potsdam.de/Play/24792)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=aa55f206-adf9-440d-afcc-b161007cc02f)
   * summary
 	[yt](https://youtu.be/52-LWJO6gTM)
-	[up](https://mediaup.uni-potsdam.de/Play/24794)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=36f317a4-17a1-443b-a379-b161007d2460)
 
   Videos follow the slides of [v1.3.1](https://github.com/potassco-asp-course/course/releases/tag/v1.3.1)
 

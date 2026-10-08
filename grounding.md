@@ -16,23 +16,23 @@ permalink: /grounding/
 
   * introduction
 	[yt](https://youtu.be/KWx6VDmLdFY)
-	[up](https://mediaup.uni-potsdam.de/Play/26810)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=8b9a7a9c-3754-41a2-a431-b1610078e699)
   * naive grounding
 	[yt](https://youtu.be/LpuvP3Mfskg)
-	[up](https://mediaup.uni-potsdam.de/Play/26811)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e654c015-9dbc-4f45-8917-b161007915ad)
   * bottom-up grounding
 	[yt](https://youtu.be/tWrk94svdT8)
-	[up](https://mediaup.uni-potsdam.de/Play/26844)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a0836a63-37e6-4365-b261-b16100796a5c)
   * (semi-naive grounding) ([yt](https://youtu.be/my4qUyYPnQo))
   * on-the-fly simplifications
 	[yt](https://youtu.be/pMu1ElXkaIQ)
-    [up](https://mediaup.uni-potsdam.de/Play/27515)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=45ce3ea9-5fc2-4876-bb1d-b1610079ec39)
   * rule instantiation
 	[yt](https://youtu.be/I9T4IlpJDf8)
-	[up](https://mediaup.uni-potsdam.de/Play/28225)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=97252f30-5824-435a-87a9-b1610079b946)
   * summary
 	[yt](https://youtu.be/tVnATIASgcY)
-	[up](https://mediaup.uni-potsdam.de/Play/28227)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=9150ed77-f499-41d0-8d74-b1610079f467)
 
 ### Literature
 
