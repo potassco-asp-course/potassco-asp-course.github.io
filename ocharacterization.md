@@ -12,7 +12,7 @@ permalink: /ocharacterization/
 
 ### Lecture videos
 
-  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9NkCfCqvMGt9VQXujGg56Wf) 1h22m50s
+  playlist [yt](https://youtube.com/playlist?list=PL7DBaibuDD9NkCfCqvMGt9VQXujGg56Wf) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=c8110139-74e7-45a0-af01-b23b008bd520) 1h22m50s
 
   * introduction
 	[yt](https://youtu.be/IArrXv-8AmI)

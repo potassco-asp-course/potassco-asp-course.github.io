@@ -11,7 +11,7 @@ permalink: /introduction/
 
 ### Lecture videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB) 2h49m3s
+  playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9NWhREiceTokOiY-S3nertB) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=0d8abfae-5d7f-4c06-8cb6-b214015f631d) 2h49m3s
 
   * introduction
 	[yt](https://youtu.be/_9dlDE1OsQA)

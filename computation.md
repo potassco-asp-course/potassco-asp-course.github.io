@@ -12,7 +12,7 @@ permalink: /computation/
 
 ### Lecture videos
 
-  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9NbVx8aleanvEAyVRYmvUST) 58m56s
+  playlist [yt](https://youtube.com/playlist?list=PL7DBaibuDD9NbVx8aleanvEAyVRYmvUST) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=563b099a-b868-4339-be7a-b23b00882412) 58m56s
 
   * introduction
 	[yt](https://youtu.be/IM_Cxf8aFL8)

@@ -26,7 +26,7 @@ permalink: /modeling/
 
 ### Lecture videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002) 1h46m25s
+  playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=c39f07d0-0d95-4ec4-88e2-b22400a202af) 1h46m25s
 
   * introduction
 	[yt](https://youtu.be/xuNQF04tqD0)

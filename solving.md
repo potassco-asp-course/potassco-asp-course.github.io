@@ -12,7 +12,7 @@ permalink: /solving/
 
 ### Lecture videos
 
-  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9NFCpoQWNCvoSdhPE3kdzmM) 2h32m58s
+  playlist [yt](https://youtube.com/playlist?list=PL7DBaibuDD9NFCpoQWNCvoSdhPE3kdzmM) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=26b6f2be-7d9e-45d6-9543-b23b008d3b24) 2h32m58s
 
   * introduction
 	[yt](https://youtu.be/VNPK8ANqsJw)

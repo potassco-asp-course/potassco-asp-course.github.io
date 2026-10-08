@@ -12,7 +12,7 @@ permalink: /grounding/
 
 ### Lecture videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9PRJitHc-lVwLNI2nlMEsSU) 1h59m20s
+  playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9PRJitHc-lVwLNI2nlMEsSU) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=ce74993e-899c-4981-8eaa-b23b00857d79) 1h59m20s
 
   * introduction
 	[yt](https://youtu.be/KWx6VDmLdFY)

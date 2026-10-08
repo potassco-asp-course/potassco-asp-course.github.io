@@ -12,7 +12,7 @@ permalink: /language/
 
 ## Videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9PeXzX7mExyVADcMU9b8eJ1) 2h7m39s
+  playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9PeXzX7mExyVADcMU9b8eJ1) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=bdbe78c9-5335-415a-ab59-b233006abaf0) 2h7m39s
 
   * introduction
 	[yt](https://youtu.be/mhUJnWd3qOU)
