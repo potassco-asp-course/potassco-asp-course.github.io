@@ -23,7 +23,7 @@ permalink: /grounding/
   * bottom-up grounding
 	[yt](https://youtu.be/tWrk94svdT8)
 	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a0836a63-37e6-4365-b261-b16100796a5c)
-  * (semi-naive grounding) ([yt](https://youtu.be/my4qUyYPnQo))
+  * (semi-naive grounding [yt](https://youtu.be/my4qUyYPnQo) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=ce74993e-899c-4981-8eaa-b23b00857d79&id=1ad99cfd-fb12-411e-8eb8-b4dd012f3b71&advance=true))
   * on-the-fly simplifications
 	[yt](https://youtu.be/pMu1ElXkaIQ)
     [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=45ce3ea9-5fc2-4876-bb1d-b1610079ec39)
