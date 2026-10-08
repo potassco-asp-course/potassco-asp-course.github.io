@@ -48,3 +48,14 @@ permalink: /computation/
   [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/computation-exercises.pdf)
   [git](https://github.com/potassco-asp-course/exercises/tree/main/computation)
   [v1.2.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.2.0)
+
+### Exercise videos
+
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9OPXlmP99SSYoCUTTaLPh3c)
+
+  * simple solving
+	* intro [yt](https://youtu.be/3iDtzTvfHFs) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=2bcef93d-a8dd-4a64-87be-b4dc00b0423a)
+	* a [yt](https://youtu.be/OjRL6WxJ6ac) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=c8080a7f-6da7-42ed-b1c8-b4dc00b03ed6)
+	* b [yt](https://youtu.be/_NMLdUXygPc) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=50c37bf5-4cf3-427d-822f-b4dc00b03ef7)
+	* c [yt](https://youtu.be/pbxVho9aRCU) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=612d17a7-529a-4249-afe8-b4dc00b03eb2)
+	* d [yt](https://youtu.be/MPUGvNnnl_M) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=d35cf097-6ede-423a-9097-b4dc00b03e8c)

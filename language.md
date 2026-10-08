@@ -69,3 +69,10 @@ permalink: /language/
   [git](https://github.com/potassco-asp-course/exercises/tree/main/language)
   [v1.1.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.1.0)
 
+### Exercise videos
+
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9PxNMVjnWx-_6Pn6RcXZdlR)
+
+  * basic language constructs
+	[yt](https://youtu.be/NrhFebuOknw)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=b9e0fa7c-5b8d-446f-a351-b4dc00b2bead)

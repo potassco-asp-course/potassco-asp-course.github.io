@@ -55,3 +55,15 @@ permalink: /acharacterization/
   [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/acharacterization-exercises.pdf)
   [git](https://github.com/potassco-asp-course/exercises/tree/main/axiomatic-characterization)
   [v1.2.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.2.0)
+
+### Exercise videos
+
+  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9Mj1u9RPEBIjONc-6emCwQ2)
+
+  * Clark's completion and loop formulas
+	* intro [yt](https://youtu.be/OwCxZMF7La8) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=ee2f99a6-98a8-4247-8f6e-b4dc00acb494)
+	* a [yt](https://youtu.be/jburqy5hmVU) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=9f5468b4-62ef-4996-ab84-b4dc00acb46a)
+	* b [yt](https://youtu.be/MqS3zvQrlRQ) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=443f66fb-fed4-4ff7-a882-b4dc00acad07)
+	* c [yt](https://youtu.be/2z8mxKrKbE8) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=3a09691d-3165-4fb2-a237-b4dc00acace0)
+	* d [yt](https://youtu.be/7tUjtGZnKJw) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e45c7167-db72-4f3a-a28e-b4dc00acaca2)
+	* e [yt](https://youtu.be/LoeKaFiVlII) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=be09c648-e188-4ab2-bd67-b4dc00acacbc)
