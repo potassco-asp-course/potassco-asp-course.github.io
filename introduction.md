@@ -68,29 +68,30 @@ permalink: /introduction/
   [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NoIuBH3gj8RUZoqXCKBl4W)
 
   * positive programs
-	* a [yt](https://youtu.be/5reTvAe2QBE)
-	* b [yt](https://youtu.be/ZksnOziJLfI)
-	* c [yt](https://youtu.be/EcaJipH20Vw)
-	* d [yt](https://youtu.be/QCQGfGYax1c)
+	* a [yt](https://youtu.be/5reTvAe2QBE) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=649e1b79-ecd1-4e71-a394-b4dc00bb2811)
+	* b [yt](https://youtu.be/ZksnOziJLfI) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=76904283-7a7d-4f9f-9fe0-b4dc00bb25c2)
+	* c [yt](https://youtu.be/EcaJipH20Vw) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=2ac7cc68-89f8-48d2-9c82-b4dc00bb23d6)
+	* d [yt](https://youtu.be/QCQGfGYax1c) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=699eb036-fd35-42b2-8087-b4dc00bb21da)
   * normal programs
-	* a [yt](https://youtu.be/7jkpKxGwbno)
-	* b [yt](https://youtu.be/QXKmgw3pBT8)
-	* c [yt](https://youtu.be/7_se9k6DO0g)
-	* d [yt](https://youtu.be/cfHDIncvgWs)
+	* a [yt](https://youtu.be/7jkpKxGwbno) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=5db30c61-d37c-4670-bf76-b4dc00bb20ef)
+	* b [yt](https://youtu.be/QXKmgw3pBT8) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=566239c4-aea9-4457-bbb1-b4dc00bb2053)
+	* c [yt](https://youtu.be/7_se9k6DO0g) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=79864743-9e52-4682-9724-b4dc00bb1ffc)
+	* d [yt](https://youtu.be/cfHDIncvgWs) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=99c5bb6f-7f3f-4aff-be1c-b4dc00bb1f29)
   * positive programs with variables
-    * intro [yt](https://youtu.be/Gbiq8j7dprg)
-    * a [yt](https://youtu.be/VAWnbqnexCE)
-    * b [yt](https://youtu.be/L83AkrbL2wk)
-    * c [yt](https://youtu.be/ZeIpA-KydJ8)
-    * d [yt](https://youtu.be/vJijxi3Y8uE)
+    * intro [yt](https://youtu.be/Gbiq8j7dprg) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=24120a91-d25d-4f3c-a1ab-b4dc00bb1d81)
+    * a [yt](https://youtu.be/VAWnbqnexCE) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=869223b9-0a79-46b9-9abd-b4dc00bb1b83)
+    * b [yt](https://youtu.be/L83AkrbL2wk) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=fdd1074b-4355-49e9-a7bb-b4dc00bb1b57)
+    * c [yt](https://youtu.be/ZeIpA-KydJ8) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e24650d8-36c1-41d6-be06-b4dc00bb19df)
+    * d [yt](https://youtu.be/vJijxi3Y8uE) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=fe14513f-d07b-418f-9469-b4dc00bb1922)
   * normal programs with variables
-    * intro [yt](https://youtu.be/Z61fm6vamRI)
-    * a [yt](https://youtu.be/gHxZBVSr-wA)
-    * b [yt](https://youtu.be/fRdJlCpcN4k)
-    * c [yt](https://youtu.be/Skk6h3ahY3g)
-    * d [yt](https://youtu.be/R4bEWq5DpNc)
+    * intro [yt](https://youtu.be/Z61fm6vamRI) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=d2e71a7f-19d2-4dc7-92f9-b4dc00bb17e9)
+    * a [yt](https://youtu.be/gHxZBVSr-wA) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a4bddf5d-2930-454b-8b60-b4dc00bb16dd)
+    * b [yt](https://youtu.be/fRdJlCpcN4k) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=77630a3f-9b6b-47a0-8f9a-b4dc00bb142d)
+    * c [yt](https://youtu.be/Skk6h3ahY3g) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=3b287ca9-8634-46b5-a5f9-b4dc00bb144e)
+    * d [yt](https://youtu.be/R4bEWq5DpNc) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a7d9693f-bebf-405b-8e36-b4dc00bb13e9)
   * safety
     [yt](https://youtu.be/wJ0GAOUFYOQ)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=f2b49fda-a6ed-49c3-a096-b4dc00bb140a)
 
 ### Practice
 
