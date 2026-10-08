@@ -71,7 +71,7 @@ permalink: /language/
 
 ### Exercise videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9PxNMVjnWx-_6Pn6RcXZdlR)
+  playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9PxNMVjnWx-_6Pn6RcXZdlR) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=6055f58f-6302-4ccf-b53a-b4dc00b4968e)
 
   * basic language constructs
 	[yt](https://youtu.be/NrhFebuOknw)

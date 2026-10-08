@@ -58,7 +58,7 @@ permalink: /acharacterization/
 
 ### Exercise videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9Mj1u9RPEBIjONc-6emCwQ2)
+  playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9Mj1u9RPEBIjONc-6emCwQ2) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=b33ed126-4232-4a27-a7ea-b4dc00af1429)
 
   * intro [yt](https://youtu.be/OwCxZMF7La8) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=ee2f99a6-98a8-4247-8f6e-b4dc00acb494)
   * a [yt](https://youtu.be/jburqy5hmVU) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=9f5468b4-62ef-4996-ab84-b4dc00acb46a)

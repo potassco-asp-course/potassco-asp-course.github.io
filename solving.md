@@ -78,7 +78,7 @@ permalink: /solving/
 
 ### Exercise videos
 
-  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9O6yRpfJ8_klmtSf7pJhasS)
+  playlist [yt](https://youtube.com/playlist?list=PL7DBaibuDD9O6yRpfJ8_klmtSf7pJhasS) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=aad6bc11-5147-4c20-a0e1-b4dc00b48123)
 
   * nogoods
 	[yt](https://youtu.be/odqMoqaLu_o)

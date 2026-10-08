@@ -51,7 +51,7 @@ permalink: /computation/
 
 ### Exercise videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9OPXlmP99SSYoCUTTaLPh3c)
+  playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9OPXlmP99SSYoCUTTaLPh3c) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=918e9a45-e7e3-436a-833d-b4dc00b1ecae)
 
   * intro [yt](https://youtu.be/3iDtzTvfHFs) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=2bcef93d-a8dd-4a64-87be-b4dc00b0423a)
   * a [yt](https://youtu.be/OjRL6WxJ6ac) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=c8080a7f-6da7-42ed-b1c8-b4dc00b03ed6)

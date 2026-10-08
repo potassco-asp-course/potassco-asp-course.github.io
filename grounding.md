@@ -53,7 +53,7 @@ permalink: /grounding/
 
 ### Exercise videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NJu5sIvjRuo1jxfORK5TGE)
+  playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9NJu5sIvjRuo1jxfORK5TGE) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=2ecaa99d-8664-4cd6-9194-b4dc00abff4e)
 
   * intro [yt](https://youtu.be/VbTtFCqth-8) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=5f32cc23-b12e-4fde-9d86-b4dc00a93a4c)
   * a [yt](https://youtu.be/rnxJnR_uBzg) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=8dae892d-c84c-4b5d-9fcf-b4dc00a93859)
