@@ -82,11 +82,16 @@ permalink: /solving/
 
   * nogoods
 	[yt](https://youtu.be/odqMoqaLu_o)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=64e0dbaa-0bde-4506-9a77-b4dc00b6fee6)
   * nogoods and propagation
 	[yt](https://youtu.be/Ejw8N_iX4z4)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=7cf14d6b-35ba-4bd2-a268-b4dc00b6f049)
   * conflict analysis
 	[yt](https://youtu.be/iCY_ES2VCUU)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=fa551284-f1e0-4b3b-864a-b4dc00b6f074)
   * cdnl-asp 1
 	[yt](https://youtu.be/N5waBX0s2ms)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=3316a053-6d49-41b4-a752-b4dc00b6efde)
   * cdnl-asp 2
 	[yt](https://youtu.be/HgiGYRSH-DE)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=c1ddb608-b7a1-4a23-80c2-b4dc00b6f029)
