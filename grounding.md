@@ -55,10 +55,9 @@ permalink: /grounding/
 
   [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9NJu5sIvjRuo1jxfORK5TGE)
 
-  * grounding
-	* intro [yt](https://youtu.be/VbTtFCqth-8) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=5f32cc23-b12e-4fde-9d86-b4dc00a93a4c)
-	* a [yt](https://youtu.be/rnxJnR_uBzg) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=8dae892d-c84c-4b5d-9fcf-b4dc00a93859)
-	* b [yt](https://youtu.be/GTHPlmE0VGE) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=eada4b96-c5f7-4082-a05c-b4dc00a9339a)
-	* c [yt](https://youtu.be/s1-A3u0zU_4) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=6f493cfe-8d5f-4794-8312-b4dc00a93373)
-	* d [yt](https://youtu.be/XB8I7PlDaqo) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=3a8f00fa-c044-4cbf-ab78-b4dc00a93333)
-	* e [yt](https://youtu.be/USUq3LfXjOs) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=9d9e5b56-fd07-481a-8af8-b4dc00a93355)
+  * intro [yt](https://youtu.be/VbTtFCqth-8) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=5f32cc23-b12e-4fde-9d86-b4dc00a93a4c)
+  * a [yt](https://youtu.be/rnxJnR_uBzg) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=8dae892d-c84c-4b5d-9fcf-b4dc00a93859)
+  * b [yt](https://youtu.be/GTHPlmE0VGE) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=eada4b96-c5f7-4082-a05c-b4dc00a9339a)
+  * c [yt](https://youtu.be/s1-A3u0zU_4) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=6f493cfe-8d5f-4794-8312-b4dc00a93373)
+  * d [yt](https://youtu.be/XB8I7PlDaqo) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=3a8f00fa-c044-4cbf-ab78-b4dc00a93333)
+  * e [yt](https://youtu.be/USUq3LfXjOs) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=9d9e5b56-fd07-481a-8af8-b4dc00a93355)
