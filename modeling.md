@@ -120,31 +120,46 @@ permalink: /modeling/
 
   * organization
 	[yt](https://youtu.be/8bCsZgfBonw)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=42888b60-593e-4602-8b18-b20c00daa524)
   * motivation
 	[yt](https://youtu.be/0nYjm6ZSGv8)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=7b2da23a-d992-45f9-98b8-b21000b22798)
   * motivation, declarative problem solving
 	[yt](https://youtu.be/gAOaGs_VjLk)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=bc751a07-3b1e-454e-9b28-b161007cd77f)
   * motivation, asp in a nutshell
 	[yt](https://youtu.be/y6K7gLbuHhY)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=06d31e9c-d6b7-4bfb-8321-b161007cdf18)
   * introduction, introduction
 	[yt](https://youtu.be/iL7SCofdEck)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=4be66776-b62d-40d7-acb3-b21000bdd00e)
   * introduction, first example
 	[yt](https://youtu.be/kDjmqycSy_o)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=3ef1a230-5d15-4179-a515-b21000bdd00e)
   * introduction, running first example
 	[yt](https://youtu.be/PXk3xYbmy_s)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=5b3b65bd-6113-47aa-971c-b21000bd85d1)
   * introduction, second example
 	[yt](https://youtu.be/3LeXwEenKDg)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=21e408ec-c891-47cf-afcc-b21000bd48fd)
   * introduction, examples summary
 	[yt](https://youtu.be/nZ4E8t5ayd8)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a7147202-d58e-4bb4-a531-b21000bd0cdd)
   * introduction, variables first example
 	[yt](https://youtu.be/VTCujuMaVoA)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=655f78ca-4e4a-41be-ad6b-b21000bc4e5c)
   * introduction, variables second example
 	[yt](https://youtu.be/X-vD_pPnrVQ)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e960689d-6813-4e29-a726-b21000bb4fab)
   * introduction, recursion first
     [yt](https://youtu.be/mp8ruUr9VrQ)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=0095331d-f72f-4b18-97be-b21000bafa6f)
   * introduction, recursion second
     [yt](https://youtu.be/EaWTt-PIgh8)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=f3e93701-7c2b-4a82-9e5a-b21000bafa70)
   * introduction, recursion and negation
     [yt](https://youtu.be/-ySlCvZS0-A)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=9124d054-e560-4c62-a282-b21000bafa6b)
   * introduction, summary
     [yt](https://youtu.be/vhQXm00W2FE)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=18a9bedf-14f0-4cbc-be87-b21000bafa6b)
