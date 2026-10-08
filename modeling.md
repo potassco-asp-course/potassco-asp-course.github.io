@@ -116,7 +116,7 @@ permalink: /modeling/
 
 ### Tutorial videos
 
-  motivation playlist [yt](https://www.youtube.com/watch?v=0nYjm6ZSGv8&list=PL7DBaibuDD9MyqG195WtanRRlhqk1QlpX&pp=sAgC) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=15673c7c-70d7-44df-8417-b21000b2e0d2)
+  motivation playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9MyqG195WtanRRlhqk1QlpX) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=15673c7c-70d7-44df-8417-b21000b2e0d2)
 
   introduction playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9O4I05DiQfilqPUgpClMKYu) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=d7d1f669-83eb-47f5-b085-b21000c9c53c)
 
