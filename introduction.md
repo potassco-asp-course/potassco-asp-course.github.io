@@ -64,7 +64,7 @@ permalink: /introduction/
 
 ### Exercise videos
 
-  playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9PNXus6L5xzw7ATskhYKPby) [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9NoIuBH3gj8RUZoqXCKBl4W) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=d7466ae4-ca03-4224-aaaa-b4dc00b4abd5)
+  playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9NoIuBH3gj8RUZoqXCKBl4W) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=d7466ae4-ca03-4224-aaaa-b4dc00b4abd5)
 
   * positive programs
 	* a [yt](https://youtu.be/5reTvAe2QBE) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=649e1b79-ecd1-4e71-a394-b4dc00bb2811)
