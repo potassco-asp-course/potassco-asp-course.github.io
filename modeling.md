@@ -26,41 +26,41 @@ permalink: /modeling/
 
 ### Lecture videos
 
-  [playlist](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002) 1h46m25s
+  playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9MUeCOgW6j1N3hxhMOEi002) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=c39f07d0-0d95-4ec4-88e2-b22400a202af) 1h46m25s
 
   * introduction
 	[yt](https://youtu.be/xuNQF04tqD0)
-	[up](https://mediaup.uni-potsdam.de/Play/24088)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=9c95b5c7-4a29-46a0-b072-b161007c2628)
   * elaboration
 	[yt](https://youtu.be/_is_x-eaFEM)
-	[up](https://mediaup.uni-potsdam.de/Play/24097)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=00262745-b38e-4930-b961-b161007c2be0)
   * workflow
 	[yt](https://youtu.be/cnvjafmJTVc)
-	[up](https://mediaup.uni-potsdam.de/Play/24099)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a9c8e191-3d9b-4a58-859d-b161007d2073)
   * methodology
 	[yt](https://youtu.be/7HciHpz1dHo)
-	[up](https://mediaup.uni-potsdam.de/Play/24100)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=67f6d604-f6eb-4f83-b537-b161007c3176)
   * case studies
 	  [yt](https://youtu.be/j1YPqsdSUxA)
-	  [up](https://mediaup.uni-potsdam.de/Play/24628)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=bd3d83a0-fc79-40c4-b6a7-b161007c34ef)
 	* sat
 	  [yt](https://youtu.be/BI7ZzDAO2uY)
-	  [up](https://mediaup.uni-potsdam.de/Play/24630)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a8c075b4-d82b-46fe-9533-b161007c3cc3)
 	* queens
 	  [yt](https://youtu.be/EnLHTnAIiss)
-	  [up](https://mediaup.uni-potsdam.de/Play/24747)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=6777e933-595b-4dc3-81a3-b161007c7445)
 	* salesperson
 	  [yt](https://youtu.be/H6PsxX_mnYk)
-	  [up](https://mediaup.uni-potsdam.de/Play/24771)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=ceb99d9c-1d6e-4630-a406-b161007c8fcd)
 	* assignment
 	  [yt](https://youtu.be/WjwHWoMIydo)
-	  [up](https://mediaup.uni-potsdam.de/Play/24790)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=52d10cf7-886f-4c1d-8613-b161007ca3fc)
 	* planning
 	  [yt](https://youtu.be/Rn-jPtQjFro)
-	  [up](https://mediaup.uni-potsdam.de/Play/24792)
+	  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=aa55f206-adf9-440d-afcc-b161007cc02f)
   * summary
 	[yt](https://youtu.be/52-LWJO6gTM)
-	[up](https://mediaup.uni-potsdam.de/Play/24794)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=36f317a4-17a1-443b-a379-b161007d2460)
 
   Videos follow the slides of [v1.3.1](https://github.com/potassco-asp-course/course/releases/tag/v1.3.1)
 
@@ -95,18 +95,39 @@ permalink: /modeling/
    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects)
    [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects)
 
-   * sudoku
-	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fsudoku%2Fsudoku.ipynb)
-	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/sudoku/sudoku.ipynb)
-   * seeknumbers
-	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fseeknumbers%2Fseeknumbers.ipynb)
-	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/seeknumbers/seeknumbers.ipynb)
-   * yosenabe
-	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fyosenabe%2Fyosenabe.ipynb)
-	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/yosenabe/yosenabe.ipynb)
+   * acyclic-programs
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Facyclic-programs%2Facyclic-programs.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/acyclic-programs/acyclic-programs.ipynb)
+   * decision-trees
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fdecision-trees%2Fdecision-trees.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/decision-trees/decision-trees.ipynb)
+   * light
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Flight%2Flight.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/light/light.ipynb)
    * minotaur
 	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fminotaur%2Fminotaur.ipynb)
 	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/minotaur/minotaur.ipynb)
+   * propositional
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fpropositional%2Fpropositional.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/propositional/propositional.ipynb)
+   * robots
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Frobots%2Frobots.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/robots/robots.ipynb)
+   * seeknumbers
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fseeknumbers%2Fseeknumbers.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/seeknumbers/seeknumbers.ipynb)
+   * shifts
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fshifts%2Fshifts.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/shifts/shifts.ipynb)
+   * sudoku
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fsudoku%2Fsudoku.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/sudoku/sudoku.ipynb)
+   * task-planning
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Ftask-planning%2Ftask-planning.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/task-planning/task-planning.ipynb)
+   * yosenabe
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fyosenabe%2Fyosenabe.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/yosenabe/yosenabe.ipynb)
 
 ### Tutorial slides
 
@@ -116,35 +137,52 @@ permalink: /modeling/
 
 ### Tutorial videos
 
-  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9O4I05DiQfilqPUgpClMKYu)
+  motivation playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9MyqG195WtanRRlhqk1QlpX) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=15673c7c-70d7-44df-8417-b21000b2e0d2)
+
+  introduction playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9O4I05DiQfilqPUgpClMKYu) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=d7d1f669-83eb-47f5-b085-b21000c9c53c)
 
   * organization
 	[yt](https://youtu.be/8bCsZgfBonw)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=42888b60-593e-4602-8b18-b20c00daa524)
   * motivation
 	[yt](https://youtu.be/0nYjm6ZSGv8)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=7b2da23a-d992-45f9-98b8-b21000b22798)
   * motivation, declarative problem solving
 	[yt](https://youtu.be/gAOaGs_VjLk)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=bc751a07-3b1e-454e-9b28-b161007cd77f)
   * motivation, asp in a nutshell
 	[yt](https://youtu.be/y6K7gLbuHhY)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=06d31e9c-d6b7-4bfb-8321-b161007cdf18)
   * introduction, introduction
 	[yt](https://youtu.be/iL7SCofdEck)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=4be66776-b62d-40d7-acb3-b21000bdd00e)
   * introduction, first example
 	[yt](https://youtu.be/kDjmqycSy_o)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=3ef1a230-5d15-4179-a515-b21000bdd00e)
   * introduction, running first example
 	[yt](https://youtu.be/PXk3xYbmy_s)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=5b3b65bd-6113-47aa-971c-b21000bd85d1)
   * introduction, second example
 	[yt](https://youtu.be/3LeXwEenKDg)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=21e408ec-c891-47cf-afcc-b21000bd48fd)
   * introduction, examples summary
 	[yt](https://youtu.be/nZ4E8t5ayd8)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a7147202-d58e-4bb4-a531-b21000bd0cdd)
   * introduction, variables first example
 	[yt](https://youtu.be/VTCujuMaVoA)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=655f78ca-4e4a-41be-ad6b-b21000bc4e5c)
   * introduction, variables second example
 	[yt](https://youtu.be/X-vD_pPnrVQ)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e960689d-6813-4e29-a726-b21000bb4fab)
   * introduction, recursion first
     [yt](https://youtu.be/mp8ruUr9VrQ)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=0095331d-f72f-4b18-97be-b21000bafa6f)
   * introduction, recursion second
     [yt](https://youtu.be/EaWTt-PIgh8)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=f3e93701-7c2b-4a82-9e5a-b21000bafa70)
   * introduction, recursion and negation
     [yt](https://youtu.be/-ySlCvZS0-A)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=9124d054-e560-4c62-a282-b21000bafa6b)
   * introduction, summary
     [yt](https://youtu.be/vhQXm00W2FE)
+    [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=18a9bedf-14f0-4cbc-be87-b21000bafa6b)

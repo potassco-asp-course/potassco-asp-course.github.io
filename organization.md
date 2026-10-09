@@ -13,7 +13,7 @@ permalink: /organization/
 ### Videos
 
   [yt](https://youtu.be/fUClBdNpyuA)
-  [up](https://mediaup.uni-potsdam.de/Play/22965)
+  [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cc2a15c5-563c-48bb-b654-b161007df269)
   14m08s
 
   Videos follow the slides of [v1.0.0](https://github.com/potassco-asp-course/course/releases/download/v1.0.0/organization.pdf)

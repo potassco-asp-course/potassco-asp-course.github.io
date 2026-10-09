@@ -12,29 +12,29 @@ permalink: /acharacterization/
 
 ### Lecture videos
 
-  [playlist](https://youtube.com/playlist?list=PL7DBaibuDD9P_bClrNMkTC9X71oqGOMiA) 1h20m15s
+  playlist [yt](https://youtube.com/playlist?list=PL7DBaibuDD9P_bClrNMkTC9X71oqGOMiA) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=44406982-3340-492a-88f9-b23b008a7844) 1h20m15s
 
   * introduction
 	[yt](https://youtu.be/7HGHNq8UclE)
-	[up](https://mediaup.uni-potsdam.de/Play/28738)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=6f4cb0e9-2d89-44f9-9bcf-b16100787c19)
   * completion
 	[yt](https://youtu.be/UdKQSfKl9nk)
-	[up](https://mediaup.uni-potsdam.de/Play/28740)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=02854c2a-f0cb-4839-9d80-b16100787355)
   * tightness
 	[yt](https://youtu.be/ahzqXCXJ-dg)
-	[up](https://mediaup.uni-potsdam.de/Play/28741)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=c34925fd-649d-4377-bd2e-b16100784c74)
   * loops
 	[yt](https://youtu.be/6A5KUAbVaDw)
-	[up](https://mediaup.uni-potsdam.de/Play/28878)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a6b461d8-da2f-46a1-aaa2-b161007829c2)
   * summary
 	[yt](https://youtu.be/k3SJmh9-geM)
-	[up](https://mediaup.uni-potsdam.de/Play/28879)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=a9a62e74-54e1-4713-b380-b1610077da2a)
 
 ### Blue board videos
 
   * external support and loop formulas
 	[yt](https://youtu.be/_KKEXg0lnUQ)
-	[up](https://mediaup.uni-potsdam.de/Play/28881)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=b9d1aa8a-46e8-4d3d-a444-b1610077b060)
 
 ### Extra slides
 
@@ -55,3 +55,14 @@ permalink: /acharacterization/
   [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/acharacterization-exercises.pdf)
   [git](https://github.com/potassco-asp-course/exercises/tree/main/axiomatic-characterization)
   [v1.2.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.2.0)
+
+### Exercise videos
+
+  playlist [yt](https://www.youtube.com/playlist?list=PL7DBaibuDD9Mj1u9RPEBIjONc-6emCwQ2) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=b33ed126-4232-4a27-a7ea-b4dc00af1429)
+
+  * intro [yt](https://youtu.be/OwCxZMF7La8) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=ee2f99a6-98a8-4247-8f6e-b4dc00acb494)
+  * a [yt](https://youtu.be/jburqy5hmVU) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=9f5468b4-62ef-4996-ab84-b4dc00acb46a)
+  * b [yt](https://youtu.be/MqS3zvQrlRQ) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=443f66fb-fed4-4ff7-a882-b4dc00acad07)
+  * c [yt](https://youtu.be/2z8mxKrKbE8) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=3a09691d-3165-4fb2-a237-b4dc00acace0)
+  * d [yt](https://youtu.be/7tUjtGZnKJw) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e45c7167-db72-4f3a-a28e-b4dc00acaca2)
+  * e [yt](https://youtu.be/LoeKaFiVlII) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=be09c648-e188-4ab2-bd67-b4dc00acacbc)
