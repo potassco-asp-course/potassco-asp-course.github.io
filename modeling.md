@@ -95,18 +95,39 @@ permalink: /modeling/
    [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects)
    [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects)
 
-   * sudoku
-	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fsudoku%2Fsudoku.ipynb)
-	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/sudoku/sudoku.ipynb)
-   * seeknumbers
-	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fseeknumbers%2Fseeknumbers.ipynb)
-	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/seeknumbers/seeknumbers.ipynb)
-   * yosenabe
-	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fyosenabe%2Fyosenabe.ipynb)
-	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/yosenabe/yosenabe.ipynb)
+   * acyclic-programs
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Facyclic-programs%2Facyclic-programs.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/acyclic-programs/acyclic-programs.ipynb)
+   * decision-trees
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fdecision-trees%2Fdecision-trees.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/decision-trees/decision-trees.ipynb)
+   * light
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Flight%2Flight.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/light/light.ipynb)
    * minotaur
 	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fminotaur%2Fminotaur.ipynb)
 	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/minotaur/minotaur.ipynb)
+   * propositional
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fpropositional%2Fpropositional.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/propositional/propositional.ipynb)
+   * robots
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Frobots%2Frobots.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/robots/robots.ipynb)
+   * seeknumbers
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fseeknumbers%2Fseeknumbers.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/seeknumbers/seeknumbers.ipynb)
+   * shifts
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fshifts%2Fshifts.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/shifts/shifts.ipynb)
+   * sudoku
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fsudoku%2Fsudoku.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/sudoku/sudoku.ipynb)
+   * task-planning
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Ftask-planning%2Ftask-planning.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/task-planning/task-planning.ipynb)
+   * yosenabe
+	 [nb](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD?urlpath=lab%2Ftree%2Fprojects%2Fyosenabe%2Fyosenabe.ipynb)
+	 [git](https://github.com/potassco-asp-course/notebooks/tree/master/projects/yosenabe/yosenabe.ipynb)
 
 ### Tutorial slides
 
