@@ -76,3 +76,6 @@ permalink: /language/
   * basic language constructs
 	[yt](https://youtu.be/NrhFebuOknw)
 	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=b9e0fa7c-5b8d-446f-a351-b4dc00b2bead)
+  * cardinality constraints as heads
+	[yt](https://youtu.be/35BOB1qktOw)
+	[up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=399516cc-fcff-4b13-8a49-b50d00c5b3ae)
