@@ -65,3 +65,19 @@ permalink: /ocharacterization/
   [pdf](https://github.com/potassco-asp-course/exercises/releases/download/v1.2.0/ocharacterization-exercises.pdf)
   [git](https://github.com/potassco-asp-course/exercises/tree/main/operational-characterization)
   [v1.2.0](https://github.com/potassco-asp-course/exercises/releases/tag/v1.2.0)
+
+### Exercise videos
+
+  playlist [yt](https://www.youtube.com/playlist?list=PLQk16bz8XXX0) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?pid=091a7bd8-c560-4b6f-90db-b50f00d976e4)
+
+  * unfounded sets
+	* intro [yt](https://youtu.be/_dAIRe4xiYQ) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=3991a239-9a73-4051-ae89-b50f00d18ffc)
+	* a [yt](https://youtu.be/V7K4rNQaEn4) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=c557651c-be4f-417e-8740-b50f00d18e19)
+	* b [yt](https://youtu.be/_xCzdLAMFXI) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=c77fc0a9-04c4-4e72-90f3-b50f00d18c7c)
+  * fitting and wellfounded semantics
+	* intro [yt](https://youtu.be/M_2cAiEVrsI) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=2494a43d-d348-4c21-aa75-b50f00d1896e)
+	* a [yt](https://youtu.be/xQXH5vTiUpA) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=ca6f24d4-e937-49e7-8485-b50f00d187eb)
+	* b [yt](https://youtu.be/MXYqfuUUorc) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=2b8fac89-32b2-47bf-b90d-b50f00d17ed9)
+	* c [yt](https://youtu.be/5K5VlA13GL0) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=b508b8ef-ac04-46f5-af76-b50f00d17f0a)
+	* d [yt](https://youtu.be/ZllQCINP_lE) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=ea7176c3-4ef4-4f04-805f-b50f00d17ef8)
+	* e [yt](https://youtu.be/FUHUPk2hFUk) [up](https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=5891087a-23ee-4892-aed2-b50f00d17f08)
